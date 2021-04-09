@@ -387,6 +387,9 @@
             <partyRepItem classPath="/Users/shimizutakumu/IdeaProjects/genius/out/production/test/RandomBidderExample.class" strategyParameters="">
                 <properties/>
             </partyRepItem>
+            <partyRepItem classPath="/Users/shimizutakumu/IdeaProjects/genius/out/production/test/BoaPartyExample.class" strategyParameters="">
+                <properties/>
+            </partyRepItem>
         </partyRepItems>
         <domainRepItem/>
         <protocolRepItem/>
