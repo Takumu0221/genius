@@ -384,10 +384,19 @@
             <partyRepItem classPath="negotiator.parties.FeedbackHillClimber" strategyParameters="">
                 <properties/>
             </partyRepItem>
+            <partyRepItem classPath="/Users/shimizutakumu/IdeaProjects/genius/out/production/test/BoaPartyExample.class" strategyParameters="">
+                <properties/>
+            </partyRepItem>
             <partyRepItem classPath="/Users/shimizutakumu/IdeaProjects/genius/out/production/test/RandomBidderExample.class" strategyParameters="">
                 <properties/>
             </partyRepItem>
-            <partyRepItem classPath="/Users/shimizutakumu/IdeaProjects/genius/out/production/test/BoaPartyExample.class" strategyParameters="">
+            <partyRepItem classPath="/Users/shimizutakumu/IdeaProjects/genius/out/production/test/RandomAgent.class" strategyParameters="">
+                <properties/>
+            </partyRepItem>
+            <partyRepItem classPath="/Users/shimizutakumu/IdeaProjects/genius/out/production/test/TimeDependentAgent.class" strategyParameters="">
+                <properties/>
+            </partyRepItem>
+            <partyRepItem classPath="/Users/shimizutakumu/IdeaProjects/genius/out/production/test/TitForTatAgent.class" strategyParameters="">
                 <properties/>
             </partyRepItem>
         </partyRepItems>
