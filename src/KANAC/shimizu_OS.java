@@ -68,7 +68,7 @@ public class shimizu_OS extends OfferingStrategy {
         // 作成した関数に従ってtargetをfinalTargetに近づけ，
         // targetの近くでOMSの返すビッドを出力
         double target, max = outcomespace.getMaxBidPossible().getMyUndiscountedUtil();
-        double ex = 2 - 4 * (1 - disFac) + resVal * 5 / 3;  // 指数の決定法
+        double ex = 2 - 4.0 * (1 - disFac) + resVal * 5 / 3;  // 指数の決定法
         target = max - (max - finalTarget) * Math.pow(negotiationSession.getTime(), ex);
 
         return getBid(outcomespace, target);
