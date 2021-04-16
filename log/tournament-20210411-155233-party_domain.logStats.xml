@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<agentsStatistics>
+    <statistics>
+        <totalUndiscountedUtility>1.0</totalUndiscountedUtility>
+        <totalDiscountedUtility>1.0</totalDiscountedUtility>
+        <numberOfSessions>1</numberOfSessions>
+        <totalNashDist>0.0</totalNashDist>
+        <totalWelfare>2.0</totalWelfare>
+        <totalParetoDistance>0.0</totalParetoDistance>
+        <meanDiscounted>1.0</meanDiscounted>
+        <meanNashDistance>0.0</meanNashDistance>
+        <meanParetoDistance>0.0</meanParetoDistance>
+        <meanUndiscounted>1.0</meanUndiscounted>
+        <meanWelfare>2.0</meanWelfare>
+    </statistics>
+</agentsStatistics>

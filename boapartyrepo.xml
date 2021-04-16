@@ -1,17 +1,36 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <boaPartiesList>
+    <boaparties partyName="SAIL agent">
+        <properties/>
+        <biddingStrategy>
+            <item classpath="/Users/takumu/IdeaProjects/genius/out/production/test/KANAC/Offering4.class"/>
+        </biddingStrategy>
+        <acceptanceStrategy>
+            <parameters name="a" value="1.0"/>
+            <parameters name="b" value="0.0"/>
+            <item classpath="/Users/takumu/IdeaProjects/genius/out/production/test/KANAC/NEXT.class"/>
+        </acceptanceStrategy>
+        <opponentModel>
+            <parameters name="l" value="0.2"/>
+            <item classpath="/Users/takumu/IdeaProjects/genius/out/production/test/KANAC/HHFM.class"/>
+        </opponentModel>
+        <omStrategy>
+            <parameters name="t" value="1.1"/>
+            <item classpath="/Users/takumu/IdeaProjects/genius/out/production/test/KANAC/Strategy1.class"/>
+        </omStrategy>
+    </boaparties>
     <boaparties partyName="test1">
         <properties/>
         <biddingStrategy>
-            <parameters name="max" value="0.99"/>
             <parameters name="e" value="1.0"/>
+            <parameters name="min" value="0.8"/>
             <parameters name="k" value="0.0"/>
-            <parameters name="min" value="0.0"/>
+            <parameters name="max" value="0.99"/>
             <item classpath="negotiator.boaframework.offeringstrategy.other.TimeDependent_Offering"/>
         </biddingStrategy>
         <acceptanceStrategy>
-            <parameters name="b" value="0.0"/>
             <parameters name="a" value="1.0"/>
+            <parameters name="b" value="0.0"/>
             <item classpath="negotiator.boaframework.acceptanceconditions.other.AC_Next"/>
         </acceptanceStrategy>
         <opponentModel>
