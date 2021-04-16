@@ -1,24 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <boaPartiesList>
-    <boaparties partyName="SAIL agent">
-        <properties/>
-        <biddingStrategy>
-            <item classpath="/Users/takumu/IdeaProjects/genius/out/production/test/KANAC/Offering4.class"/>
-        </biddingStrategy>
-        <acceptanceStrategy>
-            <parameters name="a" value="1.0"/>
-            <parameters name="b" value="0.0"/>
-            <item classpath="/Users/takumu/IdeaProjects/genius/out/production/test/KANAC/NEXT.class"/>
-        </acceptanceStrategy>
-        <opponentModel>
-            <parameters name="l" value="0.2"/>
-            <item classpath="/Users/takumu/IdeaProjects/genius/out/production/test/KANAC/HHFM.class"/>
-        </opponentModel>
-        <omStrategy>
-            <parameters name="t" value="1.1"/>
-            <item classpath="/Users/takumu/IdeaProjects/genius/out/production/test/KANAC/Strategy1.class"/>
-        </omStrategy>
-    </boaparties>
     <boaparties partyName="test1">
         <properties/>
         <biddingStrategy>
@@ -40,6 +21,45 @@
         <omStrategy>
             <parameters name="t" value="1.1"/>
             <item classpath="negotiator.boaframework.omstrategy.BestBid"/>
+        </omStrategy>
+    </boaparties>
+    <boaparties partyName="SAIL agent">
+        <properties/>
+        <biddingStrategy>
+            <parameters name="max" value="0.99"/>
+            <parameters name="k" value="0.0"/>
+            <parameters name="e" value="1.0"/>
+            <parameters name="min" value="0.0"/>
+            <item classpath="/Users/takumu/IdeaProjects/genius/out/production/test/KANAC/Offering4.class"/>
+        </biddingStrategy>
+        <acceptanceStrategy>
+            <item classpath="/Users/takumu/IdeaProjects/genius/out/production/test/KANAC/NEXT.class"/>
+        </acceptanceStrategy>
+        <opponentModel>
+            <item classpath="/Users/takumu/IdeaProjects/genius/out/production/test/KANAC/HHFM.class"/>
+        </opponentModel>
+        <omStrategy>
+            <parameters name="t" value="1.1"/>
+            <item classpath="negotiator.boaframework.omstrategy.BestBid"/>
+        </omStrategy>
+    </boaparties>
+    <boaparties partyName="KANAC agent (shimizu)">
+        <properties/>
+        <biddingStrategy>
+            <item classpath="/Users/shimizutakumu/IdeaProjects/genius/out/production/test/KANAC/shimizu_OS.class"/>
+        </biddingStrategy>
+        <acceptanceStrategy>
+            <parameters name="a" value="1.0"/>
+            <parameters name="b" value="0.0"/>
+            <item classpath="/Users/shimizutakumu/IdeaProjects/genius/out/production/test/KANAC/shimizu_AS.class"/>
+        </acceptanceStrategy>
+        <opponentModel>
+            <parameters name="l" value="0.2"/>
+            <item classpath="/Users/shimizutakumu/IdeaProjects/genius/out/production/test/KANAC/shimizu_OM.class"/>
+        </opponentModel>
+        <omStrategy>
+            <parameters name="t" value="1.1"/>
+            <item classpath="/Users/shimizutakumu/IdeaProjects/genius/out/production/test/KANAC/shimizu_OMS.class"/>
         </omStrategy>
     </boaparties>
 </boaPartiesList>
