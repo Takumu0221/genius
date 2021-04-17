@@ -61,7 +61,7 @@ private double a;
         if (a * lastOpponentBidUtil + b >= nextMyBidUtil) {
             return Actions.Accept;
         }
-        //
+        // 次に自分が提案するBidの効用値よりも留保価格が大きければ交渉終了
         if (nextMyBidUtil < resVal){
             return Actions.Break;
         }

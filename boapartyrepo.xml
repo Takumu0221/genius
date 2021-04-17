@@ -62,4 +62,23 @@
             <item classpath="/Users/shimizutakumu/IdeaProjects/genius/out/production/test/KANAC/shimizu_OMS.class"/>
         </omStrategy>
     </boaparties>
+    <boaparties partyName="KANAC agent (shimizu)">
+        <properties/>
+        <biddingStrategy>
+            <item classpath="/Users/takumu/IdeaProjects/genius/out/production/test/KANAC/shimizu_OS.class"/>
+        </biddingStrategy>
+        <acceptanceStrategy>
+            <parameters name="a" value="1.0"/>
+            <parameters name="b" value="0.0"/>
+            <item classpath="/Users/takumu/IdeaProjects/genius/out/production/test/KANAC/shimizu_AS.class"/>
+        </acceptanceStrategy>
+        <opponentModel>
+            <parameters name="l" value="0.2"/>
+            <item classpath="/Users/takumu/IdeaProjects/genius/out/production/test/KANAC/shimizu_OM.class"/>
+        </opponentModel>
+        <omStrategy>
+            <parameters name="t" value="1.1"/>
+            <item classpath="/Users/takumu/IdeaProjects/genius/out/production/test/KANAC/shimizu_OMS.class"/>
+        </omStrategy>
+    </boaparties>
 </boaPartiesList>

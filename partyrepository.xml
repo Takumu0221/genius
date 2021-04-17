@@ -396,6 +396,9 @@
             <partyRepItem classPath="/Users/takumu/IdeaProjects/genius/out/production/test/RandomBidderExample.class" strategyParameters="">
                 <properties/>
             </partyRepItem>
+            <partyRepItem classPath="/Users/takumu/IdeaProjects/genius/out/production/test/shimizu_agent.class" strategyParameters="">
+                <properties/>
+            </partyRepItem>
         </partyRepItems>
         <domainRepItem/>
         <protocolRepItem/>

@@ -16,7 +16,7 @@
 		<biddingstrategy description="2011 - ValueModelAgent" classpath="negotiator.boaframework.offeringstrategy.anac2011.ValueModelAgent_Offering"/>
 		<biddingstrategy description="2013 - InoxAgent" classpath="negotiator.boaframework.offeringstrategy.anac2013.InoxAgent_Offering"/>
 		<biddingstrategy description="2010 - Nozomi" classpath="negotiator.boaframework.offeringstrategy.anac2010.Nozomi_Offering"/>
-		<biddingstrategy description="shimizu_OS.class" classpath="/Users/shimizutakumu/IdeaProjects/genius/out/production/test/KANAC/shimizu_OS.class"/>
+		<biddingstrategy description="shimizu_OS.class" classpath="/Users/takumu/IdeaProjects/genius/out/production/test/KANAC/shimizu_OS.class"/>
 		<biddingstrategy description="Other - Better Time dependent" classpath="negotiator.boaframework.offeringstrategy.other.GeniusTimeDependent_Offering"/>
 		<biddingstrategy description="Offering4.class" classpath="/Users/shimizutakumu/IdeaProjects/genius/out/production/test/KANAC/Offering4.class"/>
 		<biddingstrategy description="2011 - Gahboninho" classpath="negotiator.boaframework.offeringstrategy.anac2011.Gahboninho_Offering"/>
@@ -36,7 +36,7 @@
 	</biddingstrategies>
 	<acceptanceconditions>
 		<acceptancecondition description="2010 - Agent K" classpath="negotiator.boaframework.acceptanceconditions.anac2010.AC_AgentK"/>
-		<acceptancecondition description="shimizu_AS.class" classpath="/Users/shimizutakumu/IdeaProjects/genius/out/production/test/KANAC/shimizu_AS.class"/>
+		<acceptancecondition description="shimizu_AS.class" classpath="/Users/takumu/IdeaProjects/genius/out/production/test/KANAC/shimizu_AS.class"/>
 		<acceptancecondition description="2010 - Yushu" classpath="negotiator.boaframework.acceptanceconditions.anac2010.AC_Yushu"/>
 		<acceptancecondition description="2012 - BRAMAgent2" classpath="negotiator.boaframework.acceptanceconditions.anac2012.AC_BRAMAgent2"/>
 		<acceptancecondition description="2012 - AgentLG" classpath="negotiator.boaframework.acceptanceconditions.anac2012.AC_AgentLG"/>
@@ -79,7 +79,7 @@
 	<opponentmodels>
 		<opponentmodel description="AgentLG Model" classpath="negotiator.boaframework.opponentmodel.AgentLGModel"/>
 		<opponentmodel description="Perfect Model" classpath="negotiator.boaframework.opponentmodel.PerfectModel"/>
-		<opponentmodel description="shimizu_OM.class" classpath="/Users/shimizutakumu/IdeaProjects/genius/out/production/test/KANAC/shimizu_OM.class"/>
+		<opponentmodel description="shimizu_OM.class" classpath="/Users/takumu/IdeaProjects/genius/out/production/test/KANAC/shimizu_OM.class"/>
 		<opponentmodel description="The Negotiator Reloaded Model" classpath="negotiator.boaframework.opponentmodel.IAMhagglerBayesianModel"/>
 		<opponentmodel description="InoxAgent_OM" classpath="negotiator.boaframework.opponentmodel.InoxAgent_OM"/>
 		<opponentmodel description="FSEGA Bayesian Model" classpath="negotiator.boaframework.opponentmodel.FSEGABayesianModel"/>
@@ -106,7 +106,7 @@
 		<omstrategy description="NTFT" classpath="negotiator.boaframework.omstrategy.NTFTstrategy"/>
 		<omstrategy description="Best bid" classpath="negotiator.boaframework.omstrategy.BestBid"/>
 		<omstrategy description="Random" classpath="negotiator.boaframework.omstrategy.NullStrategy"/>
-		<omstrategy description="shimizu_OMS.class" classpath="/Users/shimizutakumu/IdeaProjects/genius/out/production/test/KANAC/shimizu_OMS.class"/>
+		<omstrategy description="shimizu_OMS.class" classpath="/Users/takumu/IdeaProjects/genius/out/production/test/KANAC/shimizu_OMS.class"/>
 		<omstrategy description="Offer best n" classpath="negotiator.boaframework.omstrategy.OfferBestN"/>
 		<omstrategy description="Strategy1.class" classpath="/Users/shimizutakumu/IdeaProjects/genius/out/production/test/KANAC/Strategy1.class"/>
 		<omstrategy description="TheFawkes" classpath="negotiator.boaframework.omstrategy.TheFawkes_OMS"/>
