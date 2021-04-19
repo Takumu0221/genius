@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome currentTime="Mon Apr 19 14:03:41 JST 2021" timeOfAgreement="0.7342657342657343" lastAction="(Accept  bid:Bid[Atmosphere: Hospitality, Amusement: Nightlife and entertainment, Culinary: International cuisine, Shopping: Shopping malls, Culture: Cinema, Sport: Bike tours, Environment: Monuments])" domain="etc/templates/anac/y2012/Travel/Travel-A-domain.xml" bids="1468" runtime="0.744034407" finalOutcome="Bid[Atmosphere: Hospitality, Amusement: Nightlife and entertainment, Culinary: International cuisine, Shopping: Shopping malls, Culture: Cinema, Sport: Bike tours, Environment: Monuments]" startingAgent="shimizu_agent@0" deadline="1000rounds">
+<resultsOfAgent agent="shimizu_agent@0" agentDesc="KANAC agent (shimizu)" utilspace="etc/templates/anac/y2012/Travel/Travel-A-prof1.xml" agentClass="shimizu_agent" userUtility="0.7137685925623591" finalUtility="0.8816488944689498" discountedUtility="0.7137685925623591" discount="0.75" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BoulwareNegotiationParty@1" agentDesc="Time-based agent" utilspace="etc/templates/anac/y2012/Travel/Travel-A-prof2.xml" agentClass="negotiator.parties.BoulwareNegotiationParty" userUtility="0.6391397019486115" finalUtility="0.7894670871007494" discountedUtility="0.6391397019486115" discount="0.75" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome></Session>

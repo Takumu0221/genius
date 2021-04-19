@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome currentTime="Mon Apr 19 15:47:37 JST 2021" timeOfAgreement="0.974025974025974" lastAction="(Accept  bid:Bid[a: a3, b: b2, c: c2, d: d2, e: e2, f: f3, g: g3, h: h3])" domain="etc/templates/Domain8/Domain8.xml" bids="1948" runtime="0.614941873" finalOutcome="Bid[a: a3, b: b2, c: c2, d: d2, e: e2, f: f3, g: g3, h: h3]" startingAgent="shimizu_agent@228" deadline="1000rounds">
+<resultsOfAgent agent="shimizu_agent@228" agentDesc="KANAC agent (shimizu)" utilspace="etc/templates/Domain8/Domain8_util1.xml" agentClass="shimizu_agent" userUtility="0.7794981859653132" finalUtility="0.7794981859653132" discountedUtility="0.7794981859653132" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="boa-negotiator.boaframework.offeringstrategy.other.TimeDependent_Offering_e_min_k_max-negotiator.boaframework.acceptanceconditions.other.AC_Next_a_b-negotiator.boaframework.opponentmodel.HardHeadedFrequencyModel_l-negotiator.boaframework.omstrategy.BestBid_t@229" agentDesc="BOA(Other - Next,Other - TimeDependent Offering,HardHeaded Frequency Model,BestBid)" utilspace="etc/templates/Domain8/Domain8_util2.xml" agentClass="genius.core.repository.boa.BoaPartyRepItem$1" userUtility="0.8064494566446923" finalUtility="0.8064494566446923" discountedUtility="0.8064494566446923" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome></Session>

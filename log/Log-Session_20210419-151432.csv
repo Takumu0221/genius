@@ -1,0 +1,4 @@
+1,1,9.99000999000999E-4,shimizu_agent@2,(Offer  bid:Bid[a: a1, b: b2, c: c1, d: d2])
+1,2,9.99000999000999E-4,TimeDependentAgent@3,(Offer  bid:Bid[a: a2, b: b3, c: c2, d: d2])
+2,1,0.001998001998001998,shimizu_agent@2,(Accept  bid:Bid[a: a2, b: b3, c: c2, d: d2])
+agreement,Bid[a: a2, b: b3, c: c2, d: d2],0.29835998776047656,1.0

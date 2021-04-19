@@ -1,0 +1,6 @@
+1,1,9.99000999000999E-4,shimizu_agent@312,(Offer  bid:Bid[a: a1, b: b2, c: c2, d: d2, e: e2, g: g2, f: f1, h: h2, i: i2, j: j2, k: k1, l: l1, m: m1, n: n1, o: o2, p: p1])
+1,2,9.99000999000999E-4,TitForTatAgent@313,(Offer  bid:Bid[a: a1, b: b2, c: c1, d: d2, e: e1, g: g1, f: f2, h: h2, i: i1, j: j1, k: k1, l: l2, m: m1, n: n1, o: o2, p: p2])
+2,1,0.001998001998001998,shimizu_agent@312,(Offer  bid:Bid[a: a1, b: b2, c: c2, d: d2, e: e2, g: g2, f: f1, h: h2, i: i2, j: j2, k: k1, l: l1, m: m1, n: n1, o: o2, p: p1])
+2,2,0.001998001998001998,TitForTatAgent@313,(Offer  bid:Bid[a: a1, b: b2, c: c2, d: d2, e: e1, g: g1, f: f2, h: h2, i: i1, j: j1, k: k2, l: l2, m: m2, n: n1, o: o2, p: p2])
+3,1,0.002997002997002997,shimizu_agent@312,(Accept  bid:Bid[a: a1, b: b2, c: c2, d: d2, e: e1, g: g1, f: f2, h: h2, i: i1, j: j1, k: k2, l: l2, m: m2, n: n1, o: o2, p: p2])
+agreement,Bid[a: a1, b: b2, c: c2, d: d2, e: e1, g: g1, f: f2, h: h2, i: i1, j: j1, k: k2, l: l2, m: m2, n: n1, o: o2, p: p2],0.7234702533241817,0.9999999999999998

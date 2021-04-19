@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome currentTime="Mon Apr 19 14:57:48 JST 2021" timeOfAgreement="9.99000999000999E-4" lastAction="(Accept  bid:Bid[Location: TU Twente, Morning Slot: Mr. Goedeovergeburen, Afternoon Slot: Miss. Getbizzy, Evening Slot: Mr. LeeLoo, Drinks: non-Alcoholic beverages, Date: December])" domain="etc/templates/ANAC2015/group12-symposium/symposium.xml" bids="1" runtime="0.006776977" finalOutcome="Bid[Location: TU Twente, Morning Slot: Mr. Goedeovergeburen, Afternoon Slot: Miss. Getbizzy, Evening Slot: Mr. LeeLoo, Drinks: non-Alcoholic beverages, Date: December]" startingAgent="shimizu_agent@142" deadline="1000rounds">
+<resultsOfAgent agent="shimizu_agent@142" agentDesc="KANAC agent (shimizu)" utilspace="etc/templates/ANAC2015/group12-symposium/Symposium-Profile1.xml" agentClass="shimizu_agent" userUtility="1.0" finalUtility="1.0" discountedUtility="1.0" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TitForTatAgent@143" agentDesc="Agent TitForTatAgent" utilspace="etc/templates/ANAC2015/group12-symposium/Symposium-Profile2.xml" agentClass="TitForTatAgent" userUtility="1.0" finalUtility="1.0" discountedUtility="1.0" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome></Session>

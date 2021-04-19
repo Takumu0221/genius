@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome currentTime="Mon Apr 19 14:49:11 JST 2021" timeOfAgreement="0.7942057942057942" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap])" domain="etc/templates/partydomain/party_domain.xml" bids="1589" runtime="0.583362331" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap]" startingAgent="shimizu_agent@310" deadline="1000rounds">
+<resultsOfAgent agent="shimizu_agent@310" agentDesc="KANAC agent (shimizu)" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="shimizu_agent" userUtility="0.8783333333333334" finalUtility="0.8783333333333334" discountedUtility="0.8783333333333334" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BoulwareNegotiationParty@311" agentDesc="Time-based agent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="negotiator.parties.BoulwareNegotiationParty" userUtility="0.7382820437475793" finalUtility="0.7382820437475793" discountedUtility="0.7382820437475793" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome></Session>

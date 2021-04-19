@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome currentTime="Mon Apr 19 15:01:09 JST 2021" timeOfAgreement="0.3986013986013986" lastAction="(Accept  bid:Bid[Bread type: Baguette, Fruit: Strawberries, Snacks: Popcorn, Spreads: Ham, Vegetables: Spinach, Drinks: Energy Drinks])" domain="etc/templates/anac/y2012/Supermarket/Supermarket-A-domain.xml" bids="797" runtime="0.611360546" finalOutcome="Bid[Bread type: Baguette, Fruit: Strawberries, Snacks: Popcorn, Spreads: Ham, Vegetables: Spinach, Drinks: Energy Drinks]" startingAgent="shimizu_agent@2" deadline="1000rounds">
+<resultsOfAgent agent="shimizu_agent@2" agentDesc="KANAC agent (shimizu)" utilspace="etc/templates/anac/y2012/Supermarket/Supermarket-A-prof1.xml" agentClass="shimizu_agent" userUtility="0.8604518213132049" finalUtility="0.9650000000000001" discountedUtility="0.8604518213132049" discount="0.75" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Atlas3@3" agentDesc="ANAC2015" utilspace="etc/templates/anac/y2012/Supermarket/Supermarket-A-prof2.xml" agentClass="agents.anac.y2015.Atlas3.Atlas3" userUtility="0.4190801616758615" finalUtility="0.4700000000000001" discountedUtility="0.4190801616758615" discount="0.75" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome></Session>

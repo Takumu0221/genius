@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome currentTime="Mon Apr 19 15:45:15 JST 2021" lastAction="(Offer  bid:Bid[a: a2, b: b4, c: c2, d: d3])" domain="etc/templates/Domain4/Domain4.xml" bids="2000" runtime="0.572993872" finalOutcome="-" startingAgent="shimizu_agent@224" deadline="1000rounds">
+<resultsOfAgent agent="shimizu_agent@224" agentDesc="KANAC agent (shimizu)" utilspace="etc/templates/Domain4/Domain4_util1.xml" agentClass="shimizu_agent" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="PonPokoAgent@225" agentDesc="ANAC2017" utilspace="etc/templates/Domain4/Domain4_util2.xml" agentClass="agents.anac.y2017.ponpokoagent.PonPokoAgent" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome></Session>

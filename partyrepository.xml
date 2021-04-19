@@ -3,6 +3,9 @@
     <items>
         <agentRepItems/>
         <partyRepItems>
+            <partyRepItem classPath="/Users/shimizutakumu/IdeaProjects/genius/out/production/test/shimizu_agent.class" strategyParameters="">
+                <properties/>
+            </partyRepItem>
             <partyRepItem classPath="negotiator.parties.BoulwareNegotiationParty" strategyParameters="">
                 <properties/>
             </partyRepItem>
@@ -397,6 +400,15 @@
                 <properties/>
             </partyRepItem>
             <partyRepItem classPath="/Users/takumu/IdeaProjects/genius/out/production/test/shimizu_agent.class" strategyParameters="">
+                <properties/>
+            </partyRepItem>
+            <partyRepItem classPath="/Users/shimizutakumu/IdeaProjects/genius/out/production/test/TitForTatAgent.class" strategyParameters="">
+                <properties/>
+            </partyRepItem>
+            <partyRepItem classPath="/Users/shimizutakumu/IdeaProjects/genius/out/production/test/TimeDependentAgent.class" strategyParameters="">
+                <properties/>
+            </partyRepItem>
+            <partyRepItem classPath="/Users/shimizutakumu/IdeaProjects/genius/out/production/test/RandomAgent.class" strategyParameters="">
                 <properties/>
             </partyRepItem>
         </partyRepItems>

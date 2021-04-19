@@ -1,0 +1,4 @@
+1,1,9.99000999000999E-4,shimizu_agent@0,(Offer  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])
+1,2,9.99000999000999E-4,BoulwareNegotiationParty@1,(Offer  bid:Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD])
+2,1,0.001998001998001998,shimizu_agent@0,(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD])
+agreement,Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD],0.725620106089855,1.0

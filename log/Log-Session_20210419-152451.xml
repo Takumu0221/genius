@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome currentTime="Mon Apr 19 15:24:51 JST 2021" timeOfAgreement="0.001998001998001998" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="2" runtime="0.009833784" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="shimizu_agent@6" deadline="1000rounds">
+<resultsOfAgent agent="shimizu_agent@6" agentDesc="KANAC agent (shimizu)" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="shimizu_agent" userUtility="0.7243786200702954" finalUtility="0.725620106089855" discountedUtility="0.7243786200702954" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BoulwareNegotiationParty@7" agentDesc="Time-based agent" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="negotiator.parties.BoulwareNegotiationParty" userUtility="0.9982890688817188" finalUtility="1.0" discountedUtility="0.9982890688817188" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome></Session>

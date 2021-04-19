@@ -1,0 +1,3 @@
+1,1,9.99000999000999E-4,shimizu_agent@142,(Offer  bid:Bid[Location: TU Twente, Morning Slot: Mr. Goedeovergeburen, Afternoon Slot: Miss. Getbizzy, Evening Slot: Mr. LeeLoo, Drinks: non-Alcoholic beverages, Date: December])
+1,2,9.99000999000999E-4,TitForTatAgent@143,(Accept  bid:Bid[Location: TU Twente, Morning Slot: Mr. Goedeovergeburen, Afternoon Slot: Miss. Getbizzy, Evening Slot: Mr. LeeLoo, Drinks: non-Alcoholic beverages, Date: December])
+agreement,Bid[Location: TU Twente, Morning Slot: Mr. Goedeovergeburen, Afternoon Slot: Miss. Getbizzy, Evening Slot: Mr. LeeLoo, Drinks: non-Alcoholic beverages, Date: December],1.0,1.0

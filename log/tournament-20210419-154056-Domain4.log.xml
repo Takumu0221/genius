@@ -1,0 +1,193 @@
+<?xml version="1.0" ?><Tournament>
+<NegotiationOutcome currentTime="Mon Apr 19 15:40:56 JST 2021" timeOfAgreement="0.8061938061938062" lastAction="(Accept  bid:Bid[a: a5, b: b3, c: c2, d: d2])" domain="etc/templates/Domain4/Domain4.xml" bids="1613" runtime="0.282738351" finalOutcome="Bid[a: a5, b: b3, c: c2, d: d2]" startingAgent="shimizu_agent@154" deadline="1000rounds">
+<resultsOfAgent agent="shimizu_agent@154" agentDesc="KANAC agent (shimizu)" utilspace="etc/templates/Domain4/Domain4_util2.xml" agentClass="shimizu_agent" userUtility="0.3955265624623371" finalUtility="0.6916146320708951" discountedUtility="0.3955265624623371" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TitForTatAgent@155" agentDesc="Agent TitForTatAgent" utilspace="etc/templates/Domain4/Domain4_util6.xml" agentClass="TitForTatAgent" userUtility="0.3412191736476945" finalUtility="0.5966531596986152" discountedUtility="0.3412191736476945" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Apr 19 15:40:56 JST 2021" timeOfAgreement="0.8791208791208791" lastAction="(Accept  bid:Bid[a: a3, b: b2, c: c1, d: d2])" domain="etc/templates/Domain4/Domain4.xml" bids="1759" runtime="0.278437845" finalOutcome="Bid[a: a3, b: b2, c: c1, d: d2]" startingAgent="shimizu_agent@156" deadline="1000rounds">
+<resultsOfAgent agent="shimizu_agent@156" agentDesc="KANAC agent (shimizu)" utilspace="etc/templates/Domain4/Domain4_util1.xml" agentClass="shimizu_agent" userUtility="0.36514141954070634" finalUtility="0.6715878863726737" discountedUtility="0.36514141954070634" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TitForTatAgent@157" agentDesc="Agent TitForTatAgent" utilspace="etc/templates/Domain4/Domain4_util6.xml" agentClass="TitForTatAgent" userUtility="0.38210962414432487" finalUtility="0.7027967278117448" discountedUtility="0.38210962414432487" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Apr 19 15:40:56 JST 2021" timeOfAgreement="0.7992007992007992" lastAction="(Accept  bid:Bid[a: a2, b: b1, c: c2, d: d3])" domain="etc/templates/Domain4/Domain4.xml" bids="1599" runtime="0.272965008" finalOutcome="Bid[a: a2, b: b1, c: c2, d: d3]" startingAgent="shimizu_agent@158" deadline="1000rounds">
+<resultsOfAgent agent="shimizu_agent@158" agentDesc="KANAC agent (shimizu)" utilspace="etc/templates/Domain4/Domain4_util2.xml" agentClass="shimizu_agent" userUtility="0.48732897915801265" finalUtility="0.8480191326059546" discountedUtility="0.48732897915801265" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgent@159" agentDesc="Agent TimeDependentAgent" utilspace="etc/templates/Domain4/Domain4_util6.xml" agentClass="TimeDependentAgent" userUtility="0.22846447082078575" finalUtility="0.3975594529827904" discountedUtility="0.22846447082078575" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Apr 19 15:40:57 JST 2021" timeOfAgreement="0.7272727272727273" lastAction="(Accept  bid:Bid[a: a1, b: b2, c: c1, d: d1])" domain="etc/templates/Domain4/Domain4.xml" bids="1454" runtime="0.265456457" finalOutcome="Bid[a: a1, b: b2, c: c1, d: d1]" startingAgent="shimizu_agent@160" deadline="1000rounds">
+<resultsOfAgent agent="shimizu_agent@160" agentDesc="KANAC agent (shimizu)" utilspace="etc/templates/Domain4/Domain4_util1.xml" agentClass="shimizu_agent" userUtility="0.5902982297874043" finalUtility="0.9772425916334434" discountedUtility="0.5902982297874043" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgent@161" agentDesc="Agent TimeDependentAgent" utilspace="etc/templates/Domain4/Domain4_util6.xml" agentClass="TimeDependentAgent" userUtility="0.2722014203930817" finalUtility="0.4506312370393552" discountedUtility="0.2722014203930817" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Apr 19 15:40:57 JST 2021" lastAction="(Offer  bid:Bid[a: a5, b: b1, c: c3, d: d4])" domain="etc/templates/Domain4/Domain4.xml" bids="2000" runtime="0.377247853" finalOutcome="-" startingAgent="shimizu_agent@162" deadline="1000rounds">
+<resultsOfAgent agent="shimizu_agent@162" agentDesc="KANAC agent (shimizu)" utilspace="etc/templates/Domain4/Domain4_util2.xml" agentClass="shimizu_agent" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="RandomAgent@163" agentDesc="Agent RandomAgent" utilspace="etc/templates/Domain4/Domain4_util6.xml" agentClass="RandomAgent" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Apr 19 15:40:58 JST 2021" lastAction="(Offer  bid:Bid[a: a3, b: b2, c: c3, d: d3])" domain="etc/templates/Domain4/Domain4.xml" bids="2000" runtime="0.334533269" finalOutcome="-" startingAgent="shimizu_agent@164" deadline="1000rounds">
+<resultsOfAgent agent="shimizu_agent@164" agentDesc="KANAC agent (shimizu)" utilspace="etc/templates/Domain4/Domain4_util1.xml" agentClass="shimizu_agent" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="RandomAgent@165" agentDesc="Agent RandomAgent" utilspace="etc/templates/Domain4/Domain4_util6.xml" agentClass="RandomAgent" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Apr 19 15:40:58 JST 2021" lastAction="(Offer  bid:Bid[a: a5, b: b1, c: c4, d: d2])" domain="etc/templates/Domain4/Domain4.xml" bids="2000" runtime="0.319564068" finalOutcome="-" startingAgent="shimizu_agent@166" deadline="1000rounds">
+<resultsOfAgent agent="shimizu_agent@166" agentDesc="KANAC agent (shimizu)" utilspace="etc/templates/Domain4/Domain4_util2.xml" agentClass="shimizu_agent" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="boa-negotiator.boaframework.offeringstrategy.other.TimeDependent_Offering_e_min_k_max-negotiator.boaframework.acceptanceconditions.other.AC_Next_a_b-negotiator.boaframework.opponentmodel.HardHeadedFrequencyModel_l-negotiator.boaframework.omstrategy.BestBid_t@167" agentDesc="BOA(Other - Next,Other - TimeDependent Offering,HardHeaded Frequency Model,BestBid)" utilspace="etc/templates/Domain4/Domain4_util6.xml" agentClass="genius.core.repository.boa.BoaPartyRepItem$1" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Apr 19 15:40:58 JST 2021" lastAction="(Offer  bid:Bid[a: a5, b: b4, c: c4, d: d3])" domain="etc/templates/Domain4/Domain4.xml" bids="2000" runtime="0.310293077" finalOutcome="-" startingAgent="shimizu_agent@168" deadline="1000rounds">
+<resultsOfAgent agent="shimizu_agent@168" agentDesc="KANAC agent (shimizu)" utilspace="etc/templates/Domain4/Domain4_util1.xml" agentClass="shimizu_agent" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="boa-negotiator.boaframework.offeringstrategy.other.TimeDependent_Offering_e_min_k_max-negotiator.boaframework.acceptanceconditions.other.AC_Next_a_b-negotiator.boaframework.opponentmodel.HardHeadedFrequencyModel_l-negotiator.boaframework.omstrategy.BestBid_t@169" agentDesc="BOA(Other - Next,Other - TimeDependent Offering,HardHeaded Frequency Model,BestBid)" utilspace="etc/templates/Domain4/Domain4_util6.xml" agentClass="genius.core.repository.boa.BoaPartyRepItem$1" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Apr 19 15:40:58 JST 2021" timeOfAgreement="0.13886113886113885" lastAction="(Accept  bid:Bid[a: a2, b: b3, c: c2, d: d1])" domain="etc/templates/Domain4/Domain4.xml" bids="277" runtime="0.05315814" finalOutcome="Bid[a: a2, b: b3, c: c2, d: d1]" startingAgent="shimizu_agent@170" deadline="1000rounds">
+<resultsOfAgent agent="shimizu_agent@170" agentDesc="KANAC agent (shimizu)" utilspace="etc/templates/Domain4/Domain4_util2.xml" agentClass="shimizu_agent" userUtility="0.8632651387587995" finalUtility="0.9504856646798359" discountedUtility="0.8632651387587995" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TitForTatAgent@171" agentDesc="Agent TitForTatAgent" utilspace="etc/templates/Domain4/Domain4_util5.xml" agentClass="TitForTatAgent" userUtility="0.9082358323095636" finalUtility="1.0" discountedUtility="0.9082358323095636" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Apr 19 15:40:59 JST 2021" timeOfAgreement="0.961038961038961" lastAction="(Accept  bid:Bid[a: a5, b: b2, c: c1, d: d4])" domain="etc/templates/Domain4/Domain4.xml" bids="1923" runtime="0.301629625" finalOutcome="Bid[a: a5, b: b2, c: c1, d: d4]" startingAgent="shimizu_agent@172" deadline="1000rounds">
+<resultsOfAgent agent="shimizu_agent@172" agentDesc="KANAC agent (shimizu)" utilspace="etc/templates/Domain4/Domain4_util1.xml" agentClass="shimizu_agent" userUtility="0.3449858638419998" finalUtility="0.6715878863726737" discountedUtility="0.3449858638419998" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TitForTatAgent@173" agentDesc="Agent TitForTatAgent" utilspace="etc/templates/Domain4/Domain4_util5.xml" agentClass="TitForTatAgent" userUtility="0.32333158826530695" finalUtility="0.6294332629816614" discountedUtility="0.32333158826530695" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Apr 19 15:40:59 JST 2021" timeOfAgreement="0.04695304695304695" lastAction="(Accept  bid:Bid[a: a2, b: b3, c: c2, d: d2])" domain="etc/templates/Domain4/Domain4.xml" bids="93" runtime="0.018027872" finalOutcome="Bid[a: a2, b: b3, c: c2, d: d2]" startingAgent="shimizu_agent@174" deadline="1000rounds">
+<resultsOfAgent agent="shimizu_agent@174" agentDesc="KANAC agent (shimizu)" utilspace="etc/templates/Domain4/Domain4_util2.xml" agentClass="shimizu_agent" userUtility="0.9679785296025454" finalUtility="1.0" discountedUtility="0.9679785296025454" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgent@175" agentDesc="Agent TimeDependentAgent" utilspace="etc/templates/Domain4/Domain4_util5.xml" agentClass="TimeDependentAgent" userUtility="0.9282745186718986" finalUtility="0.9589825500086769" discountedUtility="0.9282745186718986" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Apr 19 15:40:59 JST 2021" timeOfAgreement="0.7632367632367633" lastAction="(Accept  bid:Bid[a: a1, b: b3, c: c1, d: d1])" domain="etc/templates/Domain4/Domain4.xml" bids="1526" runtime="0.256910291" finalOutcome="Bid[a: a1, b: b3, c: c1, d: d1]" startingAgent="shimizu_agent@176" deadline="1000rounds">
+<resultsOfAgent agent="shimizu_agent@176" agentDesc="KANAC agent (shimizu)" utilspace="etc/templates/Domain4/Domain4_util1.xml" agentClass="shimizu_agent" userUtility="0.5506894760146024" finalUtility="0.9346821233209509" discountedUtility="0.5506894760146024" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgent@177" agentDesc="Agent TimeDependentAgent" utilspace="etc/templates/Domain4/Domain4_util5.xml" agentClass="TimeDependentAgent" userUtility="0.23577195728510106" finalUtility="0.40017440545555527" discountedUtility="0.23577195728510106" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Apr 19 15:40:59 JST 2021" timeOfAgreement="9.99000999000999E-4" lastAction="(Accept  bid:Bid[a: a2, b: b3, c: c2, d: d2])" domain="etc/templates/Domain4/Domain4.xml" bids="1" runtime="0.002865075" finalOutcome="Bid[a: a2, b: b3, c: c2, d: d2]" startingAgent="shimizu_agent@178" deadline="1000rounds">
+<resultsOfAgent agent="shimizu_agent@178" agentDesc="KANAC agent (shimizu)" utilspace="etc/templates/Domain4/Domain4_util2.xml" agentClass="shimizu_agent" userUtility="0.9993077849656112" finalUtility="1.0" discountedUtility="0.9993077849656112" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="RandomAgent@179" agentDesc="Agent RandomAgent" utilspace="etc/templates/Domain4/Domain4_util5.xml" agentClass="RandomAgent" userUtility="0.9583187278698444" finalUtility="0.9589825500086769" discountedUtility="0.9583187278698444" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Apr 19 15:40:59 JST 2021" lastAction="(Offer  bid:Bid[a: a2, b: b3, c: c4, d: d1])" domain="etc/templates/Domain4/Domain4.xml" bids="2000" runtime="0.322736008" finalOutcome="-" startingAgent="shimizu_agent@180" deadline="1000rounds">
+<resultsOfAgent agent="shimizu_agent@180" agentDesc="KANAC agent (shimizu)" utilspace="etc/templates/Domain4/Domain4_util1.xml" agentClass="shimizu_agent" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="RandomAgent@181" agentDesc="Agent RandomAgent" utilspace="etc/templates/Domain4/Domain4_util5.xml" agentClass="RandomAgent" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Apr 19 15:40:59 JST 2021" timeOfAgreement="0.13886113886113885" lastAction="(Accept  bid:Bid[a: a2, b: b3, c: c2, d: d1])" domain="etc/templates/Domain4/Domain4.xml" bids="277" runtime="0.045970247" finalOutcome="Bid[a: a2, b: b3, c: c2, d: d1]" startingAgent="shimizu_agent@182" deadline="1000rounds">
+<resultsOfAgent agent="shimizu_agent@182" agentDesc="KANAC agent (shimizu)" utilspace="etc/templates/Domain4/Domain4_util2.xml" agentClass="shimizu_agent" userUtility="0.8632651387587995" finalUtility="0.9504856646798359" discountedUtility="0.8632651387587995" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="boa-negotiator.boaframework.offeringstrategy.other.TimeDependent_Offering_e_min_k_max-negotiator.boaframework.acceptanceconditions.other.AC_Next_a_b-negotiator.boaframework.opponentmodel.HardHeadedFrequencyModel_l-negotiator.boaframework.omstrategy.BestBid_t@183" agentDesc="BOA(Other - Next,Other - TimeDependent Offering,HardHeaded Frequency Model,BestBid)" utilspace="etc/templates/Domain4/Domain4_util5.xml" agentClass="genius.core.repository.boa.BoaPartyRepItem$1" userUtility="0.9082358323095636" finalUtility="1.0" discountedUtility="0.9082358323095636" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Apr 19 15:41:00 JST 2021" lastAction="(Offer  bid:Bid[a: a2, b: b4, c: c3, d: d2])" domain="etc/templates/Domain4/Domain4.xml" bids="2000" runtime="0.32882731" finalOutcome="-" startingAgent="shimizu_agent@184" deadline="1000rounds">
+<resultsOfAgent agent="shimizu_agent@184" agentDesc="KANAC agent (shimizu)" utilspace="etc/templates/Domain4/Domain4_util1.xml" agentClass="shimizu_agent" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="boa-negotiator.boaframework.offeringstrategy.other.TimeDependent_Offering_e_min_k_max-negotiator.boaframework.acceptanceconditions.other.AC_Next_a_b-negotiator.boaframework.opponentmodel.HardHeadedFrequencyModel_l-negotiator.boaframework.omstrategy.BestBid_t@185" agentDesc="BOA(Other - Next,Other - TimeDependent Offering,HardHeaded Frequency Model,BestBid)" utilspace="etc/templates/Domain4/Domain4_util5.xml" agentClass="genius.core.repository.boa.BoaPartyRepItem$1" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Apr 19 15:41:00 JST 2021" timeOfAgreement="0.8411588411588412" lastAction="(Accept  bid:Bid[a: a1, b: b3, c: c2, d: d2])" domain="etc/templates/Domain4/Domain4.xml" bids="1683" runtime="0.274617899" finalOutcome="Bid[a: a1, b: b3, c: c2, d: d2]" startingAgent="shimizu_agent@186" deadline="1000rounds">
+<resultsOfAgent agent="shimizu_agent@186" agentDesc="KANAC agent (shimizu)" utilspace="etc/templates/Domain4/Domain4_util2.xml" agentClass="shimizu_agent" userUtility="0.38605584349726674" finalUtility="0.6916146320708951" discountedUtility="0.38605584349726674" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TitForTatAgent@187" agentDesc="Agent TitForTatAgent" utilspace="etc/templates/Domain4/Domain4_util4.xml" agentClass="TitForTatAgent" userUtility="0.4844626097422873" finalUtility="0.8679092292806854" discountedUtility="0.4844626097422873" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Apr 19 15:41:00 JST 2021" timeOfAgreement="0.34665334665334663" lastAction="(Accept  bid:Bid[a: a1, b: b4, c: c1, d: d3])" domain="etc/templates/Domain4/Domain4.xml" bids="693" runtime="0.131180103" finalOutcome="Bid[a: a1, b: b4, c: c1, d: d3]" startingAgent="shimizu_agent@188" deadline="1000rounds">
+<resultsOfAgent agent="shimizu_agent@188" agentDesc="KANAC agent (shimizu)" utilspace="etc/templates/Domain4/Domain4_util1.xml" agentClass="shimizu_agent" userUtility="0.7004083671113995" finalUtility="0.8906444807981482" discountedUtility="0.7004083671113995" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TitForTatAgent@189" agentDesc="Agent TitForTatAgent" utilspace="etc/templates/Domain4/Domain4_util4.xml" agentClass="TitForTatAgent" userUtility="0.6170568552835837" finalUtility="0.7846540793959067" discountedUtility="0.6170568552835837" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Apr 19 15:41:00 JST 2021" timeOfAgreement="0.4565434565434565" lastAction="(Accept  bid:Bid[a: a2, b: b4, c: c2, d: d3])" domain="etc/templates/Domain4/Domain4.xml" bids="913" runtime="0.161972607" finalOutcome="Bid[a: a2, b: b4, c: c2, d: d3]" startingAgent="shimizu_agent@190" deadline="1000rounds">
+<resultsOfAgent agent="shimizu_agent@190" agentDesc="KANAC agent (shimizu)" utilspace="etc/templates/Domain4/Domain4_util2.xml" agentClass="shimizu_agent" userUtility="0.6321343801946859" finalUtility="0.8674464737094044" discountedUtility="0.6321343801946859" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgent@191" agentDesc="Agent TimeDependentAgent" utilspace="etc/templates/Domain4/Domain4_util4.xml" agentClass="TimeDependentAgent" userUtility="0.48239265421429056" finalUtility="0.6619633735355945" discountedUtility="0.48239265421429056" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Apr 19 15:41:01 JST 2021" timeOfAgreement="0.31868131868131866" lastAction="(Accept  bid:Bid[a: a1, b: b4, c: c1, d: d3])" domain="etc/templates/Domain4/Domain4.xml" bids="637" runtime="0.125159895" finalOutcome="Bid[a: a1, b: b4, c: c1, d: d3]" startingAgent="shimizu_agent@192" deadline="1000rounds">
+<resultsOfAgent agent="shimizu_agent@192" agentDesc="KANAC agent (shimizu)" utilspace="etc/templates/Domain4/Domain4_util1.xml" agentClass="shimizu_agent" userUtility="0.7141209022260812" finalUtility="0.8906444807981482" discountedUtility="0.7141209022260812" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgent@193" agentDesc="Agent TimeDependentAgent" utilspace="etc/templates/Domain4/Domain4_util4.xml" agentClass="TimeDependentAgent" userUtility="0.6291375416276481" finalUtility="0.7846540793959067" discountedUtility="0.6291375416276481" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Apr 19 15:41:01 JST 2021" timeOfAgreement="0.964035964035964" lastAction="(Accept  bid:Bid[a: a1, b: b4, c: c2, d: d2])" domain="etc/templates/Domain4/Domain4.xml" bids="1928" runtime="0.311831149" finalOutcome="Bid[a: a1, b: b4, c: c2, d: d2]" startingAgent="shimizu_agent@194" deadline="1000rounds">
+<resultsOfAgent agent="shimizu_agent@194" agentDesc="KANAC agent (shimizu)" utilspace="etc/templates/Domain4/Domain4_util2.xml" agentClass="shimizu_agent" userUtility="0.32465949389144483" finalUtility="0.6333326087605459" discountedUtility="0.32465949389144483" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="RandomAgent@195" agentDesc="Agent RandomAgent" utilspace="etc/templates/Domain4/Domain4_util4.xml" agentClass="RandomAgent" userUtility="0.4932612310065378" finalUtility="0.9622340578719202" discountedUtility="0.4932612310065378" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Apr 19 15:41:01 JST 2021" lastAction="(Offer  bid:Bid[a: a1, b: b1, c: c2, d: d2])" domain="etc/templates/Domain4/Domain4.xml" bids="2000" runtime="0.313790759" finalOutcome="-" startingAgent="shimizu_agent@196" deadline="1000rounds">
+<resultsOfAgent agent="shimizu_agent@196" agentDesc="KANAC agent (shimizu)" utilspace="etc/templates/Domain4/Domain4_util1.xml" agentClass="shimizu_agent" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="RandomAgent@197" agentDesc="Agent RandomAgent" utilspace="etc/templates/Domain4/Domain4_util4.xml" agentClass="RandomAgent" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Apr 19 15:41:02 JST 2021" lastAction="(Offer  bid:Bid[a: a5, b: b3, c: c2, d: d4])" domain="etc/templates/Domain4/Domain4.xml" bids="2000" runtime="0.304263135" finalOutcome="-" startingAgent="shimizu_agent@198" deadline="1000rounds">
+<resultsOfAgent agent="shimizu_agent@198" agentDesc="KANAC agent (shimizu)" utilspace="etc/templates/Domain4/Domain4_util2.xml" agentClass="shimizu_agent" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="boa-negotiator.boaframework.offeringstrategy.other.TimeDependent_Offering_e_min_k_max-negotiator.boaframework.acceptanceconditions.other.AC_Next_a_b-negotiator.boaframework.opponentmodel.HardHeadedFrequencyModel_l-negotiator.boaframework.omstrategy.BestBid_t@199" agentDesc="BOA(Other - Next,Other - TimeDependent Offering,HardHeaded Frequency Model,BestBid)" utilspace="etc/templates/Domain4/Domain4_util4.xml" agentClass="genius.core.repository.boa.BoaPartyRepItem$1" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Apr 19 15:41:02 JST 2021" lastAction="(Offer  bid:Bid[a: a5, b: b3, c: c2, d: d4])" domain="etc/templates/Domain4/Domain4.xml" bids="2000" runtime="0.306523733" finalOutcome="-" startingAgent="shimizu_agent@200" deadline="1000rounds">
+<resultsOfAgent agent="shimizu_agent@200" agentDesc="KANAC agent (shimizu)" utilspace="etc/templates/Domain4/Domain4_util1.xml" agentClass="shimizu_agent" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="boa-negotiator.boaframework.offeringstrategy.other.TimeDependent_Offering_e_min_k_max-negotiator.boaframework.acceptanceconditions.other.AC_Next_a_b-negotiator.boaframework.opponentmodel.HardHeadedFrequencyModel_l-negotiator.boaframework.omstrategy.BestBid_t@201" agentDesc="BOA(Other - Next,Other - TimeDependent Offering,HardHeaded Frequency Model,BestBid)" utilspace="etc/templates/Domain4/Domain4_util4.xml" agentClass="genius.core.repository.boa.BoaPartyRepItem$1" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Apr 19 15:41:02 JST 2021" timeOfAgreement="0.7412587412587412" lastAction="(Accept  bid:Bid[a: a3, b: b3, c: c2, d: d2])" domain="etc/templates/Domain4/Domain4.xml" bids="1483" runtime="0.252480106" finalOutcome="Bid[a: a3, b: b3, c: c2, d: d2]" startingAgent="shimizu_agent@202" deadline="1000rounds">
+<resultsOfAgent agent="shimizu_agent@202" agentDesc="KANAC agent (shimizu)" utilspace="etc/templates/Domain4/Domain4_util2.xml" agentClass="shimizu_agent" userUtility="0.41373575779742056" finalUtility="0.6916146320708951" discountedUtility="0.41373575779742056" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TitForTatAgent@203" agentDesc="Agent TitForTatAgent" utilspace="etc/templates/Domain4/Domain4_util3.xml" agentClass="TitForTatAgent" userUtility="0.33961034737762996" finalUtility="0.5677040986243533" discountedUtility="0.33961034737762996" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Apr 19 15:41:03 JST 2021" lastAction="(Offer  bid:Bid[a: a3, b: b1, c: c4, d: d2])" domain="etc/templates/Domain4/Domain4.xml" bids="2000" runtime="0.31055187" finalOutcome="-" startingAgent="shimizu_agent@204" deadline="1000rounds">
+<resultsOfAgent agent="shimizu_agent@204" agentDesc="KANAC agent (shimizu)" utilspace="etc/templates/Domain4/Domain4_util1.xml" agentClass="shimizu_agent" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TitForTatAgent@205" agentDesc="Agent TitForTatAgent" utilspace="etc/templates/Domain4/Domain4_util3.xml" agentClass="TitForTatAgent" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Apr 19 15:41:03 JST 2021" timeOfAgreement="0.8621378621378621" lastAction="(Accept  bid:Bid[a: a3, b: b3, c: c2, d: d2])" domain="etc/templates/Domain4/Domain4.xml" bids="1725" runtime="0.29393626" finalOutcome="Bid[a: a3, b: b3, c: c2, d: d2]" startingAgent="shimizu_agent@206" deadline="1000rounds">
+<resultsOfAgent agent="shimizu_agent@206" agentDesc="KANAC agent (shimizu)" utilspace="etc/templates/Domain4/Domain4_util2.xml" agentClass="shimizu_agent" userUtility="0.3804826133467311" finalUtility="0.6916146320708951" discountedUtility="0.3804826133467311" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgent@207" agentDesc="Agent TimeDependentAgent" utilspace="etc/templates/Domain4/Domain4_util3.xml" agentClass="TimeDependentAgent" userUtility="0.31231487744189707" finalUtility="0.5677040986243533" discountedUtility="0.31231487744189707" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Apr 19 15:41:03 JST 2021" timeOfAgreement="0.7272727272727273" lastAction="(Accept  bid:Bid[a: a1, b: b2, c: c1, d: d1])" domain="etc/templates/Domain4/Domain4.xml" bids="1454" runtime="0.250932298" finalOutcome="Bid[a: a1, b: b2, c: c1, d: d1]" startingAgent="shimizu_agent@208" deadline="1000rounds">
+<resultsOfAgent agent="shimizu_agent@208" agentDesc="KANAC agent (shimizu)" utilspace="etc/templates/Domain4/Domain4_util1.xml" agentClass="shimizu_agent" userUtility="0.5902982297874043" finalUtility="0.9772425916334434" discountedUtility="0.5902982297874043" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="TimeDependentAgent@209" agentDesc="Agent TimeDependentAgent" utilspace="etc/templates/Domain4/Domain4_util3.xml" agentClass="TimeDependentAgent" userUtility="0.17836010409068362" finalUtility="0.29527632232331924" discountedUtility="0.17836010409068362" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Apr 19 15:41:04 JST 2021" lastAction="(Offer  bid:Bid[a: a3, b: b1, c: c3, d: d1])" domain="etc/templates/Domain4/Domain4.xml" bids="2000" runtime="0.331607445" finalOutcome="-" startingAgent="shimizu_agent@210" deadline="1000rounds">
+<resultsOfAgent agent="shimizu_agent@210" agentDesc="KANAC agent (shimizu)" utilspace="etc/templates/Domain4/Domain4_util2.xml" agentClass="shimizu_agent" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="RandomAgent@211" agentDesc="Agent RandomAgent" utilspace="etc/templates/Domain4/Domain4_util3.xml" agentClass="RandomAgent" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Apr 19 15:41:04 JST 2021" lastAction="(Offer  bid:Bid[a: a3, b: b1, c: c3, d: d1])" domain="etc/templates/Domain4/Domain4.xml" bids="2000" runtime="0.32083358" finalOutcome="-" startingAgent="shimizu_agent@212" deadline="1000rounds">
+<resultsOfAgent agent="shimizu_agent@212" agentDesc="KANAC agent (shimizu)" utilspace="etc/templates/Domain4/Domain4_util1.xml" agentClass="shimizu_agent" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="RandomAgent@213" agentDesc="Agent RandomAgent" utilspace="etc/templates/Domain4/Domain4_util3.xml" agentClass="RandomAgent" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Apr 19 15:41:04 JST 2021" lastAction="(Offer  bid:Bid[a: a3, b: b3, c: c3, d: d3])" domain="etc/templates/Domain4/Domain4.xml" bids="2000" runtime="0.308404789" finalOutcome="-" startingAgent="shimizu_agent@214" deadline="1000rounds">
+<resultsOfAgent agent="shimizu_agent@214" agentDesc="KANAC agent (shimizu)" utilspace="etc/templates/Domain4/Domain4_util2.xml" agentClass="shimizu_agent" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="boa-negotiator.boaframework.offeringstrategy.other.TimeDependent_Offering_e_min_k_max-negotiator.boaframework.acceptanceconditions.other.AC_Next_a_b-negotiator.boaframework.opponentmodel.HardHeadedFrequencyModel_l-negotiator.boaframework.omstrategy.BestBid_t@215" agentDesc="BOA(Other - Next,Other - TimeDependent Offering,HardHeaded Frequency Model,BestBid)" utilspace="etc/templates/Domain4/Domain4_util3.xml" agentClass="genius.core.repository.boa.BoaPartyRepItem$1" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Mon Apr 19 15:41:05 JST 2021" lastAction="(Offer  bid:Bid[a: a3, b: b3, c: c3, d: d3])" domain="etc/templates/Domain4/Domain4.xml" bids="2000" runtime="0.317105335" finalOutcome="-" startingAgent="shimizu_agent@216" deadline="1000rounds">
+<resultsOfAgent agent="shimizu_agent@216" agentDesc="KANAC agent (shimizu)" utilspace="etc/templates/Domain4/Domain4_util1.xml" agentClass="shimizu_agent" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="boa-negotiator.boaframework.offeringstrategy.other.TimeDependent_Offering_e_min_k_max-negotiator.boaframework.acceptanceconditions.other.AC_Next_a_b-negotiator.boaframework.opponentmodel.HardHeadedFrequencyModel_l-negotiator.boaframework.omstrategy.BestBid_t@217" agentDesc="BOA(Other - Next,Other - TimeDependent Offering,HardHeaded Frequency Model,BestBid)" utilspace="etc/templates/Domain4/Domain4_util3.xml" agentClass="genius.core.repository.boa.BoaPartyRepItem$1" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.5" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome></Tournament>
