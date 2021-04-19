@@ -1,7 +1,7 @@
-import KANAC.shimizu_AS;
-import KANAC.shimizu_OM;
-import KANAC.shimizu_OMS;
-import KANAC.shimizu_OS;
+import shimizu.shimizu_AS;
+import shimizu.shimizu_OM;
+import shimizu.shimizu_OMS;
+import shimizu.shimizu_OS;
 import genius.core.boaframework.*;
 import genius.core.issue.IssueDiscrete;
 import genius.core.issue.ValueDiscrete;
