@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<agentsStatistics>
+    <statistics>
+        <agentname>WaveAgent</agentname>
+        <totalUndiscountedUtility>15.775131574333452</totalUndiscountedUtility>
+        <totalDiscountedUtility>13.838011775990287</totalDiscountedUtility>
+        <numberOfSessions>18</numberOfSessions>
+        <totalNashDist>2.2773397378920914</totalNashDist>
+        <totalWelfare>27.67602355198057</totalWelfare>
+        <totalParetoDistance>0.0</totalParetoDistance>
+        <meanDiscounted>0.7687784319994604</meanDiscounted>
+        <meanNashDistance>0.1265188743273384</meanNashDistance>
+        <meanParetoDistance>0.0</meanParetoDistance>
+        <meanUndiscounted>0.8763961985740807</meanUndiscounted>
+        <meanWelfare>1.5375568639989206</meanWelfare>
+    </statistics>
+</agentsStatistics>

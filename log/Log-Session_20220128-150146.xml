@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome currentTime="Fri Jan 28 15:01:47 JST 2022" timeOfAgreement="0.4045954045954046" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="809" runtime="0.358670878" finalOutcome="Bid[Laptop: HP, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="shimizu_agent@156" deadline="1000rounds">
+<resultsOfAgent agent="shimizu_agent@156" agentDesc="KANAC agent (shimizu)" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="shimizu_agent" userUtility="0.6179131410664948" finalUtility="0.8740242984783759" discountedUtility="0.6179131410664948" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent@157" agentDesc="Agent WaveAgent" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="WaveAgent" userUtility="0.6179131410664948" finalUtility="0.874024298478376" discountedUtility="0.6179131410664948" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome></Session>

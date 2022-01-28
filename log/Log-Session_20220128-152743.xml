@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome currentTime="Fri Jan 28 15:27:44 JST 2022" timeOfAgreement="0.8621378621378621" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap])" domain="etc/templates/partydomain/party_domain.xml" bids="1724" runtime="0.726448585" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap]" startingAgent="WaveAgent@12" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent@12" agentDesc="Agent WaveAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="WaveAgent" userUtility="0.8483333333333334" finalUtility="0.8483333333333334" discountedUtility="0.8483333333333334" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Atlas3@13" agentDesc="ANAC2015" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.anac.y2015.Atlas3.Atlas3" userUtility="0.8564909885811369" finalUtility="0.8564909885811369" discountedUtility="0.8564909885811369" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome></Session>

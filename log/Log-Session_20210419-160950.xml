@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome currentTime="Mon Apr 19 16:09:58 JST 2021" timeOfAgreement="0.8141858141858141" lastAction="(Accept  bid:Bid[Pie: a353])" domain="etc/templates/pie/pie_domain.xml" bids="1628" runtime="8.126338045" finalOutcome="Bid[Pie: a353]" startingAgent="shimizu_agent@0" deadline="1000rounds">
+<resultsOfAgent agent="shimizu_agent@0" agentDesc="KANAC agent (shimizu)" utilspace="etc/templates/pie/pie_A.xml" agentClass="shimizu_agent" userUtility="0.353" finalUtility="0.353" discountedUtility="0.353" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BoulwareNegotiationParty@1" agentDesc="Time-based agent" utilspace="etc/templates/pie/pie_B.xml" agentClass="negotiator.parties.BoulwareNegotiationParty" userUtility="0.647" finalUtility="0.647" discountedUtility="0.647" discount="1.0" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome></Session>

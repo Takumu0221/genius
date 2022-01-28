@@ -6,6 +6,12 @@
             <partyRepItem classPath="/Users/shimizutakumu/IdeaProjects/genius/out/production/test/shimizu_agent.class" strategyParameters="">
                 <properties/>
             </partyRepItem>
+            <partyRepItem classPath="/Users/shimizutakumu/IdeaProjects/genius/out/production/test/WaveAgent.class" strategyParameters="">
+                <properties/>
+            </partyRepItem>
+            <partyRepItem classPath="/Users/shimizutakumu/IdeaProjects/genius/out/production/test/WaveAgent2.class" strategyParameters="">
+                <properties/>
+            </partyRepItem>
             <partyRepItem classPath="negotiator.parties.BoulwareNegotiationParty" strategyParameters="">
                 <properties/>
             </partyRepItem>

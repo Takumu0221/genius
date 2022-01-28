@@ -1,0 +1,361 @@
+<?xml version="1.0" ?><Tournament>
+<NegotiationOutcome currentTime="Fri Jan 28 15:47:37 JST 2022" timeOfAgreement="0.022977022977022976" lastAction="(Accept  bid:Bid[a: a2, b: b2, c: c2, d: d2, e: e1, g: g2, f: f2, h: h2, i: i2, j: j1, k: k2, l: l2, m: m1, n: n1, o: o2, p: p2])" domain="etc/templates/Domain16/Domain16.xml" bids="44" runtime="0.038662048" finalOutcome="Bid[a: a2, b: b2, c: c2, d: d2, e: e1, g: g2, f: f2, h: h2, i: i2, j: j1, k: k2, l: l2, m: m1, n: n1, o: o2, p: p2]" startingAgent="WaveAgent@0" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent@0" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util5.xml" agentClass="WaveAgent" userUtility="0.8911993131389906" finalUtility="0.9101612045305602" discountedUtility="0.8911993131389906" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent@1" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util6.xml" agentClass="WaveAgent" userUtility="0.9060568710112579" finalUtility="0.9253348840543643" discountedUtility="0.9060568710112579" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:47:38 JST 2022" timeOfAgreement="0.008991008991008992" lastAction="(Accept  bid:Bid[a: a2, b: b2, c: c2, d: d2, e: e1, g: g2, f: f2, h: h1, i: i2, j: j2, k: k2, l: l2, m: m2, n: n2, o: o1, p: p1])" domain="etc/templates/Domain16/Domain16.xml" bids="17" runtime="0.011197879" finalOutcome="Bid[a: a2, b: b2, c: c2, d: d2, e: e1, g: g2, f: f2, h: h1, i: i2, j: j2, k: k2, l: l2, m: m2, n: n2, o: o1, p: p1]" startingAgent="WaveAgent2@2" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent2@2" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util5.xml" agentClass="WaveAgent2" userUtility="0.8955533112951749" finalUtility="0.9029616928029646" discountedUtility="0.8955533112951749" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent@3" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util6.xml" agentClass="WaveAgent" userUtility="0.9168885964416322" finalUtility="0.9244734721122472" discountedUtility="0.9168885964416322" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:47:39 JST 2022" timeOfAgreement="0.001998001998001998" lastAction="(Accept  bid:Bid[a: a2, b: b2, c: c2, d: d2, e: e2, g: g2, f: f1, h: h1, i: i2, j: j2, k: k2, l: l1, m: m2, n: n1, o: o2, p: p1])" domain="etc/templates/Domain16/Domain16.xml" bids="2" runtime="0.002571404" finalOutcome="Bid[a: a2, b: b2, c: c2, d: d2, e: e2, g: g2, f: f1, h: h1, i: i2, j: j2, k: k2, l: l1, m: m2, n: n1, o: o2, p: p1]" startingAgent="WaveAgent@4" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent@4" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util5.xml" agentClass="WaveAgent" userUtility="0.9344676650588312" finalUtility="0.9361800093624588" discountedUtility="0.9344676650588312" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent2@5" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util6.xml" agentClass="WaveAgent2" userUtility="0.8986911148668798" finalUtility="0.9003379012339247" discountedUtility="0.8986911148668798" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:47:40 JST 2022" timeOfAgreement="0.001998001998001998" lastAction="(Accept  bid:Bid[a: a2, b: b2, c: c2, d: d2, e: e2, g: g2, f: f1, h: h1, i: i2, j: j2, k: k2, l: l1, m: m2, n: n1, o: o2, p: p1])" domain="etc/templates/Domain16/Domain16.xml" bids="2" runtime="0.002101901" finalOutcome="Bid[a: a2, b: b2, c: c2, d: d2, e: e2, g: g2, f: f1, h: h1, i: i2, j: j2, k: k2, l: l1, m: m2, n: n1, o: o2, p: p1]" startingAgent="WaveAgent2@6" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent2@6" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util5.xml" agentClass="WaveAgent2" userUtility="0.9344676650588312" finalUtility="0.9361800093624588" discountedUtility="0.9344676650588312" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent2@7" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util6.xml" agentClass="WaveAgent2" userUtility="0.8986911148668798" finalUtility="0.9003379012339247" discountedUtility="0.8986911148668798" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:47:42 JST 2022" lastAction="(Offer  bid:Bid[a: a2, b: b1, c: c1, d: d2, e: e2, g: g1, f: f2, h: h2, i: i2, j: j2, k: k2, l: l2, m: m2, n: n1, o: o1, p: p1])" domain="etc/templates/Domain16/Domain16.xml" bids="2000" runtime="0.368797594" finalOutcome="-" startingAgent="WaveAgent@8" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent@8" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util4.xml" agentClass="WaveAgent" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent@9" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util6.xml" agentClass="WaveAgent" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:47:43 JST 2022" lastAction="(Offer  bid:Bid[a: a2, b: b1, c: c1, d: d2, e: e1, g: g2, f: f2, h: h2, i: i2, j: j2, k: k1, l: l2, m: m2, n: n2, o: o2, p: p2])" domain="etc/templates/Domain16/Domain16.xml" bids="2000" runtime="0.372003796" finalOutcome="-" startingAgent="WaveAgent2@10" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent2@10" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util4.xml" agentClass="WaveAgent2" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent@11" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util6.xml" agentClass="WaveAgent" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:47:45 JST 2022" lastAction="(Offer  bid:Bid[a: a1, b: b1, c: c1, d: d2, e: e2, g: g2, f: f1, h: h1, i: i2, j: j1, k: k2, l: l1, m: m2, n: n2, o: o2, p: p1])" domain="etc/templates/Domain16/Domain16.xml" bids="2000" runtime="0.361369033" finalOutcome="-" startingAgent="WaveAgent@12" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent@12" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util4.xml" agentClass="WaveAgent" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent2@13" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util6.xml" agentClass="WaveAgent2" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:47:46 JST 2022" lastAction="(Offer  bid:Bid[a: a1, b: b1, c: c1, d: d2, e: e2, g: g2, f: f1, h: h1, i: i2, j: j1, k: k2, l: l1, m: m2, n: n2, o: o2, p: p1])" domain="etc/templates/Domain16/Domain16.xml" bids="2000" runtime="0.317714486" finalOutcome="-" startingAgent="WaveAgent2@14" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent2@14" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util4.xml" agentClass="WaveAgent2" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent2@15" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util6.xml" agentClass="WaveAgent2" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:47:48 JST 2022" lastAction="(Offer  bid:Bid[a: a1, b: b2, c: c1, d: d1, e: e1, g: g1, f: f1, h: h1, i: i2, j: j2, k: k2, l: l2, m: m2, n: n1, o: o2, p: p1])" domain="etc/templates/Domain16/Domain16.xml" bids="2000" runtime="0.376407748" finalOutcome="-" startingAgent="WaveAgent@16" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent@16" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util4.xml" agentClass="WaveAgent" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent@17" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util5.xml" agentClass="WaveAgent" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:47:49 JST 2022" lastAction="(Offer  bid:Bid[a: a2, b: b2, c: c1, d: d1, e: e1, g: g1, f: f2, h: h2, i: i2, j: j1, k: k2, l: l1, m: m2, n: n2, o: o1, p: p2])" domain="etc/templates/Domain16/Domain16.xml" bids="2000" runtime="0.343326838" finalOutcome="-" startingAgent="WaveAgent2@18" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent2@18" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util4.xml" agentClass="WaveAgent2" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent@19" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util5.xml" agentClass="WaveAgent" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:47:51 JST 2022" lastAction="(Offer  bid:Bid[a: a2, b: b2, c: c1, d: d1, e: e2, g: g2, f: f2, h: h1, i: i2, j: j2, k: k1, l: l1, m: m1, n: n1, o: o1, p: p1])" domain="etc/templates/Domain16/Domain16.xml" bids="2000" runtime="0.408458343" finalOutcome="-" startingAgent="WaveAgent@20" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent@20" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util4.xml" agentClass="WaveAgent" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent2@21" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util5.xml" agentClass="WaveAgent2" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:47:52 JST 2022" lastAction="(Offer  bid:Bid[a: a2, b: b2, c: c1, d: d1, e: e2, g: g2, f: f2, h: h1, i: i2, j: j2, k: k1, l: l1, m: m1, n: n1, o: o1, p: p1])" domain="etc/templates/Domain16/Domain16.xml" bids="2000" runtime="0.326649814" finalOutcome="-" startingAgent="WaveAgent2@22" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent2@22" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util4.xml" agentClass="WaveAgent2" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent2@23" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util5.xml" agentClass="WaveAgent2" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:47:53 JST 2022" timeOfAgreement="0.1008991008991009" lastAction="(Accept  bid:Bid[a: a1, b: b2, c: c2, d: d1, e: e2, g: g2, f: f2, h: h2, i: i2, j: j2, k: k2, l: l2, m: m2, n: n1, o: o2, p: p2])" domain="etc/templates/Domain16/Domain16.xml" bids="201" runtime="0.054265786" finalOutcome="Bid[a: a1, b: b2, c: c2, d: d1, e: e2, g: g2, f: f2, h: h2, i: i2, j: j2, k: k2, l: l2, m: m2, n: n1, o: o2, p: p2]" startingAgent="WaveAgent@24" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent@24" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util3.xml" agentClass="WaveAgent" userUtility="0.8449914670740218" finalUtility="0.9268385998170745" discountedUtility="0.8449914670740218" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent@25" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util6.xml" agentClass="WaveAgent" userUtility="0.8489812665730726" finalUtility="0.9312148572413724" discountedUtility="0.8489812665730726" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:47:54 JST 2022" timeOfAgreement="0.001998001998001998" lastAction="(Accept  bid:Bid[a: a1, b: b2, c: c2, d: d1, e: e2, g: g2, f: f2, h: h2, i: i2, j: j1, k: k2, l: l2, m: m2, n: n2, o: o2, p: p2])" domain="etc/templates/Domain16/Domain16.xml" bids="3" runtime="0.002405534" finalOutcome="Bid[a: a1, b: b2, c: c2, d: d1, e: e2, g: g2, f: f2, h: h2, i: i2, j: j1, k: k2, l: l2, m: m2, n: n2, o: o2, p: p2]" startingAgent="WaveAgent2@26" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent2@26" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util3.xml" agentClass="WaveAgent2" userUtility="0.8990167762206075" finalUtility="0.9006641593384922" discountedUtility="0.8990167762206075" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent@27" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util6.xml" agentClass="WaveAgent" userUtility="0.923796132505848" finalUtility="0.9254889219991154" discountedUtility="0.923796132505848" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:47:55 JST 2022" timeOfAgreement="0.03896103896103896" lastAction="(Accept  bid:Bid[a: a1, b: b2, c: c2, d: d1, e: e2, g: g2, f: f2, h: h2, i: i2, j: j2, k: k2, l: l2, m: m2, n: n2, o: o2, p: p2])" domain="etc/templates/Domain16/Domain16.xml" bids="77" runtime="0.020411181" finalOutcome="Bid[a: a1, b: b2, c: c2, d: d1, e: e2, g: g2, f: f2, h: h2, i: i2, j: j2, k: k2, l: l2, m: m2, n: n2, o: o2, p: p2]" startingAgent="WaveAgent@28" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent@28" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util3.xml" agentClass="WaveAgent" userUtility="0.9011058078883244" finalUtility="0.9338560678935101" discountedUtility="0.9011058078883244" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent2@29" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util6.xml" agentClass="WaveAgent2" userUtility="0.898883742390333" finalUtility="0.9315532424867813" discountedUtility="0.898883742390333" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:47:56 JST 2022" timeOfAgreement="0.001998001998001998" lastAction="(Accept  bid:Bid[a: a1, b: b2, c: c2, d: d1, e: e2, g: g2, f: f2, h: h2, i: i2, j: j1, k: k2, l: l2, m: m2, n: n2, o: o2, p: p2])" domain="etc/templates/Domain16/Domain16.xml" bids="3" runtime="0.002504056" finalOutcome="Bid[a: a1, b: b2, c: c2, d: d1, e: e2, g: g2, f: f2, h: h2, i: i2, j: j1, k: k2, l: l2, m: m2, n: n2, o: o2, p: p2]" startingAgent="WaveAgent2@30" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent2@30" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util3.xml" agentClass="WaveAgent2" userUtility="0.8990167762206075" finalUtility="0.9006641593384922" discountedUtility="0.8990167762206075" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent2@31" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util6.xml" agentClass="WaveAgent2" userUtility="0.923796132505848" finalUtility="0.9254889219991154" discountedUtility="0.923796132505848" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:47:57 JST 2022" timeOfAgreement="0.06393606393606394" lastAction="(Accept  bid:Bid[a: a1, b: b2, c: c1, d: d1, e: e1, g: g2, f: f1, h: h2, i: i2, j: j2, k: k2, l: l1, m: m2, n: n2, o: o2, p: p2])" domain="etc/templates/Domain16/Domain16.xml" bids="127" runtime="0.034598701" finalOutcome="Bid[a: a1, b: b2, c: c1, d: d1, e: e1, g: g2, f: f1, h: h2, i: i2, j: j2, k: k2, l: l1, m: m2, n: n2, o: o2, p: p2]" startingAgent="WaveAgent@32" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent@32" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util3.xml" agentClass="WaveAgent" userUtility="0.8714918172267704" finalUtility="0.9240724691988415" discountedUtility="0.8714918172267704" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent@33" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util5.xml" agentClass="WaveAgent" userUtility="0.8782889023929855" finalUtility="0.9312796502058719" discountedUtility="0.8782889023929855" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:47:58 JST 2022" timeOfAgreement="0.014985014985014986" lastAction="(Accept  bid:Bid[a: a1, b: b2, c: c1, d: d1, e: e1, g: g2, f: f1, h: h2, i: i2, j: j2, k: k2, l: l2, m: m2, n: n1, o: o1, p: p2])" domain="etc/templates/Domain16/Domain16.xml" bids="29" runtime="0.053883168" finalOutcome="Bid[a: a1, b: b2, c: c1, d: d1, e: e1, g: g2, f: f1, h: h2, i: i2, j: j2, k: k2, l: l2, m: m2, n: n1, o: o1, p: p2]" startingAgent="WaveAgent2@34" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent2@34" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util3.xml" agentClass="WaveAgent2" userUtility="0.8925980172844532" finalUtility="0.9049384779824887" discountedUtility="0.8925980172844532" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent@35" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util5.xml" agentClass="WaveAgent" userUtility="0.9182467670794914" finalUtility="0.9309418301659149" discountedUtility="0.9182467670794914" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:47:59 JST 2022" timeOfAgreement="0.2917082917082917" lastAction="(Accept  bid:Bid[a: a1, b: b2, c: c1, d: d1, e: e1, g: g2, f: f1, h: h1, i: i2, j: j2, k: k2, l: l2, m: m2, n: n1, o: o2, p: p2])" domain="etc/templates/Domain16/Domain16.xml" bids="583" runtime="0.115401346" finalOutcome="Bid[a: a1, b: b2, c: c1, d: d1, e: e1, g: g2, f: f1, h: h1, i: i2, j: j2, k: k2, l: l2, m: m2, n: n1, o: o2, p: p2]" startingAgent="WaveAgent@36" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent@36" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util3.xml" agentClass="WaveAgent" userUtility="0.6938325479590509" finalUtility="0.9064358401457615" discountedUtility="0.6938325479590509" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent2@37" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util5.xml" agentClass="WaveAgent2" userUtility="0.7143263169556624" finalUtility="0.9332092839296254" discountedUtility="0.7143263169556624" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:48:00 JST 2022" timeOfAgreement="0.014985014985014986" lastAction="(Accept  bid:Bid[a: a1, b: b2, c: c1, d: d1, e: e1, g: g2, f: f1, h: h2, i: i2, j: j2, k: k2, l: l2, m: m2, n: n1, o: o1, p: p2])" domain="etc/templates/Domain16/Domain16.xml" bids="29" runtime="0.009544989" finalOutcome="Bid[a: a1, b: b2, c: c1, d: d1, e: e1, g: g2, f: f1, h: h2, i: i2, j: j2, k: k2, l: l2, m: m2, n: n1, o: o1, p: p2]" startingAgent="WaveAgent2@38" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent2@38" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util3.xml" agentClass="WaveAgent2" userUtility="0.8925980172844532" finalUtility="0.9049384779824887" discountedUtility="0.8925980172844532" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent2@39" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util5.xml" agentClass="WaveAgent2" userUtility="0.9182467670794914" finalUtility="0.9309418301659149" discountedUtility="0.9182467670794914" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:48:01 JST 2022" timeOfAgreement="0.013986013986013986" lastAction="(Accept  bid:Bid[a: a1, b: b1, c: c1, d: d1, e: e1, g: g2, f: f1, h: h1, i: i1, j: j2, k: k2, l: l2, m: m2, n: n1, o: o2, p: p2])" domain="etc/templates/Domain16/Domain16.xml" bids="27" runtime="0.008568191" finalOutcome="Bid[a: a1, b: b1, c: c1, d: d1, e: e1, g: g2, f: f1, h: h1, i: i1, j: j2, k: k2, l: l2, m: m2, n: n1, o: o2, p: p2]" startingAgent="WaveAgent@40" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent@40" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util3.xml" agentClass="WaveAgent" userUtility="0.9155115334626142" finalUtility="0.9273195469605122" discountedUtility="0.9155115334626142" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent@41" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util4.xml" agentClass="WaveAgent" userUtility="0.9122362644385147" finalUtility="0.9240020344261649" discountedUtility="0.9122362644385147" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:48:02 JST 2022" timeOfAgreement="0.03196803196803197" lastAction="(Accept  bid:Bid[a: a1, b: b1, c: c1, d: d1, e: e1, g: g2, f: f1, h: h2, i: i1, j: j1, k: k2, l: l2, m: m2, n: n1, o: o2, p: p2])" domain="etc/templates/Domain16/Domain16.xml" bids="63" runtime="0.016076561" finalOutcome="Bid[a: a1, b: b1, c: c1, d: d1, e: e1, g: g2, f: f1, h: h2, i: i1, j: j1, k: k2, l: l2, m: m2, n: n1, o: o2, p: p2]" startingAgent="WaveAgent2@42" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent2@42" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util3.xml" agentClass="WaveAgent2" userUtility="0.8840459241100604" finalUtility="0.9103244032274231" discountedUtility="0.8840459241100604" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent@43" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util4.xml" agentClass="WaveAgent" userUtility="0.8974595650643377" finalUtility="0.9241367679064431" discountedUtility="0.8974595650643377" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:48:03 JST 2022" timeOfAgreement="0.08591408591408592" lastAction="(Accept  bid:Bid[a: a1, b: b1, c: c1, d: d1, e: e1, g: g2, f: f1, h: h2, i: i1, j: j2, k: k2, l: l2, m: m2, n: n1, o: o2, p: p2])" domain="etc/templates/Domain16/Domain16.xml" bids="170" runtime="0.038371939" finalOutcome="Bid[a: a1, b: b1, c: c1, d: d1, e: e1, g: g2, f: f1, h: h2, i: i1, j: j2, k: k2, l: l2, m: m2, n: n1, o: o2, p: p2]" startingAgent="WaveAgent@44" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent@44" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util3.xml" agentClass="WaveAgent" userUtility="0.8720889037783446" finalUtility="0.943516311782441" discountedUtility="0.8720889037783446" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent2@45" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util4.xml" agentClass="WaveAgent2" userUtility="0.8541235330313306" finalUtility="0.9240795086381883" discountedUtility="0.8541235330313306" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:48:04 JST 2022" timeOfAgreement="0.03196803196803197" lastAction="(Accept  bid:Bid[a: a1, b: b1, c: c1, d: d1, e: e1, g: g2, f: f1, h: h2, i: i1, j: j1, k: k2, l: l2, m: m2, n: n1, o: o2, p: p2])" domain="etc/templates/Domain16/Domain16.xml" bids="63" runtime="0.014673524" finalOutcome="Bid[a: a1, b: b1, c: c1, d: d1, e: e1, g: g2, f: f1, h: h2, i: i1, j: j1, k: k2, l: l2, m: m2, n: n1, o: o2, p: p2]" startingAgent="WaveAgent2@46" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent2@46" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util3.xml" agentClass="WaveAgent2" userUtility="0.8840459241100604" finalUtility="0.9103244032274231" discountedUtility="0.8840459241100604" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent2@47" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util4.xml" agentClass="WaveAgent2" userUtility="0.8974595650643377" finalUtility="0.9241367679064431" discountedUtility="0.8974595650643377" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:48:05 JST 2022" timeOfAgreement="0.014985014985014986" lastAction="(Accept  bid:Bid[a: a1, b: b2, c: c2, d: d2, e: e2, g: g1, f: f2, h: h2, i: i2, j: j2, k: k2, l: l2, m: m2, n: n1, o: o2, p: p2])" domain="etc/templates/Domain16/Domain16.xml" bids="29" runtime="0.008363663" finalOutcome="Bid[a: a1, b: b2, c: c2, d: d2, e: e2, g: g1, f: f2, h: h2, i: i2, j: j2, k: k2, l: l2, m: m2, n: n1, o: o2, p: p2]" startingAgent="WaveAgent@48" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent@48" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util2.xml" agentClass="WaveAgent" userUtility="0.8977596518088995" finalUtility="0.9101714737991999" discountedUtility="0.8977596518088995" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent@49" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util6.xml" agentClass="WaveAgent" userUtility="0.9398031954038709" finalUtility="0.9527962831905243" discountedUtility="0.9398031954038709" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:48:06 JST 2022" timeOfAgreement="0.33766233766233766" lastAction="(Accept  bid:Bid[a: a1, b: b2, c: c2, d: d2, e: e1, g: g1, f: f2, h: h2, i: i2, j: j1, k: k2, l: l2, m: m2, n: n1, o: o2, p: p2])" domain="etc/templates/Domain16/Domain16.xml" bids="674" runtime="0.11689311" finalOutcome="Bid[a: a1, b: b2, c: c2, d: d2, e: e1, g: g1, f: f2, h: h2, i: i2, j: j1, k: k2, l: l2, m: m2, n: n1, o: o2, p: p2]" startingAgent="WaveAgent2@50" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent2@50" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util2.xml" agentClass="WaveAgent2" userUtility="0.6868007947502347" finalUtility="0.9358368509125479" discountedUtility="0.6868007947502347" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent@51" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util6.xml" agentClass="WaveAgent" userUtility="0.6579322759313592" finalUtility="0.8965005194049658" discountedUtility="0.6579322759313592" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:48:07 JST 2022" timeOfAgreement="0.17282717282717283" lastAction="(Accept  bid:Bid[a: a1, b: b2, c: c2, d: d2, e: e2, g: g1, f: f2, h: h2, i: i2, j: j1, k: k2, l: l2, m: m2, n: n1, o: o2, p: p2])" domain="etc/templates/Domain16/Domain16.xml" bids="345" runtime="0.103092561" finalOutcome="Bid[a: a1, b: b2, c: c2, d: d2, e: e2, g: g1, f: f2, h: h2, i: i2, j: j1, k: k2, l: l2, m: m2, n: n1, o: o2, p: p2]" startingAgent="WaveAgent@52" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent@52" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util2.xml" agentClass="WaveAgent" userUtility="0.7929920111805882" finalUtility="0.9290597786832602" discountedUtility="0.7929920111805882" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent2@53" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util6.xml" agentClass="WaveAgent2" userUtility="0.8080759714048875" finalUtility="0.9467319627028584" discountedUtility="0.8080759714048875" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:48:08 JST 2022" timeOfAgreement="0.29270729270729273" lastAction="(Accept  bid:Bid[a: a1, b: b1, c: c2, d: d2, e: e1, g: g1, f: f2, h: h2, i: i2, j: j1, k: k2, l: l2, m: m2, n: n1, o: o2, p: p2])" domain="etc/templates/Domain16/Domain16.xml" bids="584" runtime="0.098884762" finalOutcome="Bid[a: a1, b: b1, c: c2, d: d2, e: e1, g: g1, f: f2, h: h2, i: i2, j: j1, k: k2, l: l2, m: m2, n: n1, o: o2, p: p2]" startingAgent="WaveAgent2@54" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent2@54" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util2.xml" agentClass="WaveAgent2" userUtility="0.6905961460832682" finalUtility="0.9030339809348682" discountedUtility="0.6905961460832682" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent2@55" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util6.xml" agentClass="WaveAgent2" userUtility="0.6855996748004679" finalUtility="0.8965005194049658" discountedUtility="0.6855996748004679" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:48:09 JST 2022" timeOfAgreement="0.3096903096903097" lastAction="(Accept  bid:Bid[a: a1, b: b2, c: c1, d: d2, e: e1, g: g2, f: f1, h: h2, i: i2, j: j1, k: k2, l: l2, m: m1, n: n1, o: o2, p: p2])" domain="etc/templates/Domain16/Domain16.xml" bids="618" runtime="0.133105578" finalOutcome="Bid[a: a1, b: b2, c: c1, d: d2, e: e1, g: g2, f: f1, h: h2, i: i2, j: j1, k: k2, l: l2, m: m1, n: n1, o: o2, p: p2]" startingAgent="WaveAgent@56" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent@56" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util2.xml" agentClass="WaveAgent" userUtility="0.6873246225811863" finalUtility="0.9128513597204737" discountedUtility="0.6873246225811863" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent@57" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util5.xml" agentClass="WaveAgent" userUtility="0.6944620334439571" finalUtility="0.9223307163401974" discountedUtility="0.6944620334439571" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:48:10 JST 2022" timeOfAgreement="0.005994005994005994" lastAction="(Accept  bid:Bid[a: a2, b: b2, c: c1, d: d2, e: e1, g: g1, f: f1, h: h2, i: i2, j: j1, k: k2, l: l2, m: m1, n: n1, o: o2, p: p2])" domain="etc/templates/Domain16/Domain16.xml" bids="10" runtime="0.00528268" finalOutcome="Bid[a: a2, b: b2, c: c1, d: d2, e: e1, g: g1, f: f1, h: h2, i: i2, j: j1, k: k2, l: l2, m: m1, n: n1, o: o2, p: p2]" startingAgent="WaveAgent2@58" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent2@58" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util2.xml" agentClass="WaveAgent2" userUtility="0.8982537680689959" finalUtility="0.9032007769226433" discountedUtility="0.8982537680689959" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent@59" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util5.xml" agentClass="WaveAgent" userUtility="0.9297277750144096" finalUtility="0.9348481226243791" discountedUtility="0.9297277750144096" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:48:11 JST 2022" timeOfAgreement="0.3206793206793207" lastAction="(Accept  bid:Bid[a: a1, b: b2, c: c1, d: d1, e: e1, g: g2, f: f1, h: h2, i: i2, j: j1, k: k1, l: l2, m: m1, n: n1, o: o2, p: p2])" domain="etc/templates/Domain16/Domain16.xml" bids="640" runtime="0.128974056" finalOutcome="Bid[a: a1, b: b2, c: c1, d: d1, e: e1, g: g2, f: f1, h: h2, i: i2, j: j1, k: k1, l: l2, m: m1, n: n1, o: o2, p: p2]" startingAgent="WaveAgent@60" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent@60" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util2.xml" agentClass="WaveAgent" userUtility="0.6643026647924121" finalUtility="0.891203998254323" discountedUtility="0.6643026647924121" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent2@61" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util5.xml" agentClass="WaveAgent2" userUtility="0.6611952171479555" finalUtility="0.8870351608976775" discountedUtility="0.6611952171479555" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:48:12 JST 2022" timeOfAgreement="0.03996003996003996" lastAction="(Accept  bid:Bid[a: a1, b: b2, c: c2, d: d2, e: e1, g: g2, f: f1, h: h2, i: i2, j: j1, k: k2, l: l2, m: m2, n: n1, o: o2, p: p2])" domain="etc/templates/Domain16/Domain16.xml" bids="79" runtime="0.015395721" finalOutcome="Bid[a: a1, b: b2, c: c2, d: d2, e: e1, g: g2, f: f1, h: h2, i: i2, j: j1, k: k2, l: l2, m: m2, n: n1, o: o2, p: p2]" startingAgent="WaveAgent2@62" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent2@62" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util2.xml" agentClass="WaveAgent2" userUtility="0.8800318049704366" finalUtility="0.9128513597204737" discountedUtility="0.8800318049704366" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent2@63" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util5.xml" agentClass="WaveAgent2" userUtility="0.8989533344533576" finalUtility="0.9324785411688256" discountedUtility="0.8989533344533576" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:48:13 JST 2022" timeOfAgreement="0.001998001998001998" lastAction="(Accept  bid:Bid[a: a1, b: b1, c: c1, d: d1, e: e1, g: g1, f: f1, h: h2, i: i1, j: j1, k: k1, l: l2, m: m2, n: n1, o: o2, p: p1])" domain="etc/templates/Domain16/Domain16.xml" bids="2" runtime="0.001929941" finalOutcome="Bid[a: a1, b: b1, c: c1, d: d1, e: e1, g: g1, f: f1, h: h2, i: i1, j: j1, k: k1, l: l2, m: m2, n: n1, o: o2, p: p1]" startingAgent="WaveAgent@64" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent@64" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util2.xml" agentClass="WaveAgent" userUtility="0.916956369640547" finalUtility="0.9186366257638343" discountedUtility="0.916956369640547" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent@65" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util4.xml" agentClass="WaveAgent" userUtility="0.980817811041706" finalUtility="0.9826150886302548" discountedUtility="0.980817811041706" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:48:14 JST 2022" timeOfAgreement="0.005994005994005994" lastAction="(Accept  bid:Bid[a: a1, b: b1, c: c1, d: d1, e: e2, g: g1, f: f1, h: h1, i: i1, j: j1, k: k1, l: l2, m: m2, n: n1, o: o2, p: p2])" domain="etc/templates/Domain16/Domain16.xml" bids="10" runtime="0.054028262" finalOutcome="Bid[a: a1, b: b1, c: c1, d: d1, e: e2, g: g1, f: f1, h: h1, i: i1, j: j1, k: k1, l: l2, m: m2, n: n1, o: o2, p: p2]" startingAgent="WaveAgent2@66" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent2@66" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util2.xml" agentClass="WaveAgent2" userUtility="0.9071101800998551" finalUtility="0.9121059644224019" discountedUtility="0.9071101800998551" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent@67" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util4.xml" agentClass="WaveAgent" userUtility="0.9017786282516639" finalUtility="0.9067450497870627" discountedUtility="0.9017786282516639" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:48:15 JST 2022" timeOfAgreement="0.017982017982017984" lastAction="(Accept  bid:Bid[a: a1, b: b1, c: c2, d: d1, e: e1, g: g1, f: f1, h: h2, i: i1, j: j2, k: k2, l: l2, m: m1, n: n1, o: o2, p: p2])" domain="etc/templates/Domain16/Domain16.xml" bids="35" runtime="0.015377482" finalOutcome="Bid[a: a1, b: b1, c: c2, d: d1, e: e1, g: g1, f: f1, h: h2, i: i1, j: j2, k: k2, l: l2, m: m1, n: n1, o: o2, p: p2]" startingAgent="WaveAgent@68" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent@68" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util2.xml" agentClass="WaveAgent" userUtility="0.9114916175492951" finalUtility="0.9266344527271511" discountedUtility="0.9114916175492951" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent2@69" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util4.xml" agentClass="WaveAgent2" userUtility="0.9415204905297524" finalUtility="0.9571622027848792" discountedUtility="0.9415204905297524" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:48:17 JST 2022" timeOfAgreement="0.03196803196803197" lastAction="(Accept  bid:Bid[a: a2, b: b1, c: c1, d: d1, e: e1, g: g1, f: f2, h: h2, i: i1, j: j1, k: k1, l: l2, m: m1, n: n1, o: o2, p: p2])" domain="etc/templates/Domain16/Domain16.xml" bids="62" runtime="0.016106109" finalOutcome="Bid[a: a2, b: b1, c: c1, d: d1, e: e1, g: g1, f: f2, h: h2, i: i1, j: j1, k: k1, l: l2, m: m1, n: n1, o: o2, p: p2]" startingAgent="WaveAgent2@70" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent2@70" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util2.xml" agentClass="WaveAgent2" userUtility="0.8865867011803362" finalUtility="0.9129407055112226" discountedUtility="0.8865867011803362" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent2@71" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util4.xml" agentClass="WaveAgent2" userUtility="0.8835939785211986" finalUtility="0.9098590234465186" discountedUtility="0.8835939785211986" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:48:18 JST 2022" timeOfAgreement="0.014985014985014986" lastAction="(Accept  bid:Bid[a: a1, b: b2, c: c1, d: d1, e: e2, g: g2, f: f2, h: h2, i: i1, j: j1, k: k2, l: l2, m: m2, n: n1, o: o1, p: p2])" domain="etc/templates/Domain16/Domain16.xml" bids="29" runtime="0.010602272" finalOutcome="Bid[a: a1, b: b2, c: c1, d: d1, e: e2, g: g2, f: f2, h: h2, i: i1, j: j1, k: k2, l: l2, m: m2, n: n1, o: o1, p: p2]" startingAgent="WaveAgent@72" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent@72" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util2.xml" agentClass="WaveAgent" userUtility="0.9067019329688987" finalUtility="0.9192373849326798" discountedUtility="0.9067019329688987" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent@73" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util3.xml" agentClass="WaveAgent" userUtility="0.929249319398126" finalUtility="0.9420964963833449" discountedUtility="0.929249319398126" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:48:19 JST 2022" timeOfAgreement="0.01898101898101898" lastAction="(Accept  bid:Bid[a: a1, b: b2, c: c1, d: d1, e: e1, g: g1, f: f2, h: h2, i: i1, j: j2, k: k2, l: l2, m: m2, n: n1, o: o2, p: p2])" domain="etc/templates/Domain16/Domain16.xml" bids="36" runtime="0.012276742" finalOutcome="Bid[a: a1, b: b2, c: c1, d: d1, e: e1, g: g1, f: f2, h: h2, i: i1, j: j2, k: k2, l: l2, m: m2, n: n1, o: o2, p: p2]" startingAgent="WaveAgent2@74" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent2@74" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util2.xml" agentClass="WaveAgent2" userUtility="0.9429214782836298" finalUtility="0.9594643336497886" discountedUtility="0.9429214782836298" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent@75" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util3.xml" agentClass="WaveAgent" userUtility="0.8990248930522277" finalUtility="0.9147976155098931" discountedUtility="0.8990248930522277" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:48:20 JST 2022" timeOfAgreement="0.004995004995004995" lastAction="(Accept  bid:Bid[a: a1, b: b2, c: c1, d: d1, e: e2, g: g2, f: f2, h: h2, i: i1, j: j1, k: k2, l: l2, m: m2, n: n1, o: o1, p: p2])" domain="etc/templates/Domain16/Domain16.xml" bids="9" runtime="0.005035485" finalOutcome="Bid[a: a1, b: b2, c: c1, d: d1, e: e2, g: g2, f: f2, h: h2, i: i1, j: j1, k: k2, l: l2, m: m2, n: n1, o: o1, p: p2]" startingAgent="WaveAgent@76" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent@76" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util2.xml" agentClass="WaveAgent" userUtility="0.9150397620169052" finalUtility="0.9192373849326798" discountedUtility="0.9150397620169052" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent2@77" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util3.xml" agentClass="WaveAgent2" userUtility="0.9377944891903071" finalUtility="0.9420964963833449" discountedUtility="0.9377944891903071" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:48:21 JST 2022" timeOfAgreement="0.026973026973026972" lastAction="(Accept  bid:Bid[a: a1, b: b1, c: c1, d: d1, e: e1, g: g2, f: f2, h: h2, i: i1, j: j1, k: k2, l: l2, m: m1, n: n1, o: o2, p: p2])" domain="etc/templates/Domain16/Domain16.xml" bids="52" runtime="0.01556534" finalOutcome="Bid[a: a1, b: b1, c: c1, d: d1, e: e1, g: g2, f: f2, h: h2, i: i1, j: j1, k: k2, l: l2, m: m1, n: n1, o: o2, p: p2]" startingAgent="WaveAgent2@78" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent2@78" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util2.xml" agentClass="WaveAgent2" userUtility="0.9000687901553133" finalUtility="0.9225912883090532" discountedUtility="0.9000687901553133" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent2@79" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util3.xml" agentClass="WaveAgent2" userUtility="0.8862526438226958" finalUtility="0.9084294193675955" discountedUtility="0.8862526438226958" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:48:22 JST 2022" timeOfAgreement="0.002997002997002997" lastAction="(Accept  bid:Bid[a: a1, b: b2, c: c2, d: d2, e: e2, g: g2, f: f1, h: h1, i: i2, j: j2, k: k2, l: l1, m: m2, n: n1, o: o2, p: p2])" domain="etc/templates/Domain16/Domain16.xml" bids="4" runtime="0.00277649" finalOutcome="Bid[a: a1, b: b2, c: c2, d: d2, e: e2, g: g2, f: f1, h: h1, i: i2, j: j2, k: k2, l: l1, m: m2, n: n1, o: o2, p: p2]" startingAgent="WaveAgent@80" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent@80" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util1.xml" agentClass="WaveAgent" userUtility="0.9076943877261305" finalUtility="0.9101904566387938" discountedUtility="0.9076943877261305" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent@81" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util6.xml" agentClass="WaveAgent" userUtility="0.9150304244183148" finalUtility="0.9175466666992144" discountedUtility="0.9150304244183148" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:48:23 JST 2022" timeOfAgreement="9.99000999000999E-4" lastAction="(Accept  bid:Bid[a: a1, b: b2, c: c2, d: d2, e: e1, g: g2, f: f2, h: h2, i: i2, j: j1, k: k2, l: l2, m: m2, n: n1, o: o1, p: p2])" domain="etc/templates/Domain16/Domain16.xml" bids="1" runtime="0.001430952" finalOutcome="Bid[a: a1, b: b2, c: c2, d: d2, e: e1, g: g2, f: f2, h: h2, i: i2, j: j1, k: k2, l: l2, m: m2, n: n1, o: o1, p: p2]" startingAgent="WaveAgent2@82" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent2@82" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util1.xml" agentClass="WaveAgent2" userUtility="0.8995026474221157" finalUtility="0.9003264069457523" discountedUtility="0.8995026474221157" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent@83" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util6.xml" agentClass="WaveAgent" userUtility="0.9344992439077968" finalUtility="0.935355053119928" discountedUtility="0.9344992439077968" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:48:24 JST 2022" timeOfAgreement="9.99000999000999E-4" lastAction="(Accept  bid:Bid[a: a1, b: b2, c: c2, d: d1, e: e2, g: g2, f: f2, h: h2, i: i2, j: j2, k: k2, l: l2, m: m1, n: n2, o: o2, p: p2])" domain="etc/templates/Domain16/Domain16.xml" bids="1" runtime="0.001441342" finalOutcome="Bid[a: a1, b: b2, c: c2, d: d1, e: e2, g: g2, f: f2, h: h2, i: i2, j: j2, k: k2, l: l2, m: m1, n: n2, o: o2, p: p2]" startingAgent="WaveAgent@84" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent@84" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util1.xml" agentClass="WaveAgent" userUtility="0.904642408976069" finalUtility="0.9054708754647617" discountedUtility="0.904642408976069" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent2@85" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util6.xml" agentClass="WaveAgent2" userUtility="0.9126864424023302" finalUtility="0.9135222755721131" discountedUtility="0.9126864424023302" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:48:25 JST 2022" timeOfAgreement="9.99000999000999E-4" lastAction="(Accept  bid:Bid[a: a1, b: b2, c: c2, d: d2, e: e1, g: g2, f: f2, h: h2, i: i2, j: j1, k: k2, l: l2, m: m2, n: n1, o: o1, p: p2])" domain="etc/templates/Domain16/Domain16.xml" bids="1" runtime="0.001583445" finalOutcome="Bid[a: a1, b: b2, c: c2, d: d2, e: e1, g: g2, f: f2, h: h2, i: i2, j: j1, k: k2, l: l2, m: m2, n: n1, o: o1, p: p2]" startingAgent="WaveAgent2@86" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent2@86" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util1.xml" agentClass="WaveAgent2" userUtility="0.8995026474221157" finalUtility="0.9003264069457523" discountedUtility="0.8995026474221157" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent2@87" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util6.xml" agentClass="WaveAgent2" userUtility="0.9344992439077968" finalUtility="0.935355053119928" discountedUtility="0.9344992439077968" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:48:26 JST 2022" timeOfAgreement="0.002997002997002997" lastAction="(Accept  bid:Bid[a: a2, b: b2, c: c2, d: d2, e: e1, g: g2, f: f1, h: h2, i: i2, j: j1, k: k2, l: l2, m: m2, n: n2, o: o1, p: p1])" domain="etc/templates/Domain16/Domain16.xml" bids="4" runtime="0.002768061" finalOutcome="Bid[a: a2, b: b2, c: c2, d: d2, e: e1, g: g2, f: f1, h: h2, i: i2, j: j1, k: k2, l: l2, m: m2, n: n2, o: o1, p: p1]" startingAgent="WaveAgent@88" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent@88" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util1.xml" agentClass="WaveAgent" userUtility="0.9205620519970459" finalUtility="0.9230935057013302" discountedUtility="0.9205620519970459" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent@89" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util5.xml" agentClass="WaveAgent" userUtility="0.9777571472391177" finalUtility="0.9804458817431083" discountedUtility="0.9777571472391177" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:48:27 JST 2022" timeOfAgreement="0.007992007992007992" lastAction="(Accept  bid:Bid[a: a2, b: b2, c: c2, d: d1, e: e2, g: g2, f: f1, h: h2, i: i2, j: j1, k: k2, l: l2, m: m2, n: n2, o: o2, p: p1])" domain="etc/templates/Domain16/Domain16.xml" bids="15" runtime="0.005199641" finalOutcome="Bid[a: a2, b: b2, c: c2, d: d1, e: e2, g: g2, f: f1, h: h2, i: i2, j: j1, k: k2, l: l2, m: m2, n: n2, o: o2, p: p1]" startingAgent="WaveAgent2@90" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent2@90" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util1.xml" agentClass="WaveAgent2" userUtility="0.8960675037075446" finalUtility="0.9026534937730538" discountedUtility="0.8960675037075446" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent@91" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util5.xml" agentClass="WaveAgent" userUtility="0.9319462274187051" finalUtility="0.9387959218557568" discountedUtility="0.9319462274187051" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:48:28 JST 2022" timeOfAgreement="0.002997002997002997" lastAction="(Accept  bid:Bid[a: a2, b: b2, c: c2, d: d2, e: e2, g: g2, f: f1, h: h1, i: i2, j: j1, k: k1, l: l1, m: m2, n: n2, o: o2, p: p1])" domain="etc/templates/Domain16/Domain16.xml" bids="4" runtime="0.003164396" finalOutcome="Bid[a: a2, b: b2, c: c2, d: d2, e: e2, g: g2, f: f1, h: h1, i: i2, j: j1, k: k1, l: l1, m: m2, n: n2, o: o2, p: p1]" startingAgent="WaveAgent@92" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent@92" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util1.xml" agentClass="WaveAgent" userUtility="0.9193316174160736" finalUtility="0.9218596875481466" discountedUtility="0.9193316174160736" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent2@93" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util5.xml" agentClass="WaveAgent2" userUtility="0.8982816807740086" finalUtility="0.9007518656826229" discountedUtility="0.8982816807740086" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:48:29 JST 2022" timeOfAgreement="0.002997002997002997" lastAction="(Accept  bid:Bid[a: a2, b: b2, c: c2, d: d2, e: e2, g: g2, f: f1, h: h1, i: i2, j: j1, k: k1, l: l1, m: m2, n: n2, o: o2, p: p1])" domain="etc/templates/Domain16/Domain16.xml" bids="4" runtime="0.003005079" finalOutcome="Bid[a: a2, b: b2, c: c2, d: d2, e: e2, g: g2, f: f1, h: h1, i: i2, j: j1, k: k1, l: l1, m: m2, n: n2, o: o2, p: p1]" startingAgent="WaveAgent2@94" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent2@94" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util1.xml" agentClass="WaveAgent2" userUtility="0.9193316174160736" finalUtility="0.9218596875481466" discountedUtility="0.9193316174160736" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent2@95" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util5.xml" agentClass="WaveAgent2" userUtility="0.8982816807740086" finalUtility="0.9007518656826229" discountedUtility="0.8982816807740086" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:48:30 JST 2022" lastAction="(Offer  bid:Bid[a: a1, b: b1, c: c2, d: d1, e: e1, g: g1, f: f1, h: h2, i: i1, j: j2, k: k2, l: l1, m: m1, n: n2, o: o1, p: p1])" domain="etc/templates/Domain16/Domain16.xml" bids="2000" runtime="0.31610723" finalOutcome="-" startingAgent="WaveAgent@96" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent@96" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util1.xml" agentClass="WaveAgent" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent@97" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util4.xml" agentClass="WaveAgent" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:48:31 JST 2022" lastAction="(Offer  bid:Bid[a: a2, b: b1, c: c2, d: d2, e: e1, g: g1, f: f1, h: h2, i: i1, j: j1, k: k1, l: l1, m: m1, n: n1, o: o1, p: p1])" domain="etc/templates/Domain16/Domain16.xml" bids="2000" runtime="0.351669761" finalOutcome="-" startingAgent="WaveAgent2@98" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent2@98" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util1.xml" agentClass="WaveAgent2" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent@99" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util4.xml" agentClass="WaveAgent" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:48:33 JST 2022" lastAction="(Offer  bid:Bid[a: a2, b: b1, c: c1, d: d1, e: e2, g: g1, f: f1, h: h2, i: i1, j: j1, k: k1, l: l1, m: m1, n: n2, o: o2, p: p1])" domain="etc/templates/Domain16/Domain16.xml" bids="2000" runtime="0.322882318" finalOutcome="-" startingAgent="WaveAgent@100" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent@100" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util1.xml" agentClass="WaveAgent" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent2@101" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util4.xml" agentClass="WaveAgent2" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:48:34 JST 2022" lastAction="(Offer  bid:Bid[a: a2, b: b1, c: c1, d: d1, e: e2, g: g1, f: f1, h: h2, i: i1, j: j1, k: k1, l: l1, m: m1, n: n2, o: o2, p: p1])" domain="etc/templates/Domain16/Domain16.xml" bids="2000" runtime="0.299167593" finalOutcome="-" startingAgent="WaveAgent2@102" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent2@102" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util1.xml" agentClass="WaveAgent2" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent2@103" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util4.xml" agentClass="WaveAgent2" userUtility="0.0" finalUtility="0.0" discountedUtility="0.0" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:48:35 JST 2022" timeOfAgreement="0.002997002997002997" lastAction="(Accept  bid:Bid[a: a1, b: b2, c: c2, d: d1, e: e2, g: g2, f: f2, h: h2, i: i2, j: j2, k: k2, l: l2, m: m1, n: n2, o: o2, p: p2])" domain="etc/templates/Domain16/Domain16.xml" bids="4" runtime="0.002298468" finalOutcome="Bid[a: a1, b: b2, c: c2, d: d1, e: e2, g: g2, f: f2, h: h2, i: i2, j: j2, k: k2, l: l2, m: m1, n: n2, o: o2, p: p2]" startingAgent="WaveAgent@104" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent@104" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util1.xml" agentClass="WaveAgent" userUtility="0.9029877493376037" finalUtility="0.9054708754647617" discountedUtility="0.9029877493376037" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent@105" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util3.xml" agentClass="WaveAgent" userUtility="0.9031722405077774" finalUtility="0.9056558739672278" discountedUtility="0.9031722405077774" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:48:36 JST 2022" timeOfAgreement="0.3156843156843157" lastAction="(Accept  bid:Bid[a: a1, b: b2, c: c1, d: d1, e: e2, g: g2, f: f2, h: h2, i: i2, j: j2, k: k2, l: l2, m: m1, n: n2, o: o2, p: p1])" domain="etc/templates/Domain16/Domain16.xml" bids="631" runtime="0.11721475" finalOutcome="Bid[a: a1, b: b2, c: c1, d: d1, e: e2, g: g2, f: f2, h: h2, i: i2, j: j2, k: k2, l: l2, m: m1, n: n2, o: o2, p: p1]" startingAgent="WaveAgent2@106" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent2@106" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util1.xml" agentClass="WaveAgent2" userUtility="0.6652470995233484" finalUtility="0.8883956206497993" discountedUtility="0.6652470995233484" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent@107" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util3.xml" agentClass="WaveAgent" userUtility="0.6865863337747183" finalUtility="0.9168928245767618" discountedUtility="0.6865863337747183" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:48:37 JST 2022" timeOfAgreement="0.36163836163836166" lastAction="(Accept  bid:Bid[a: a1, b: b2, c: c1, d: d1, e: e2, g: g2, f: f1, h: h2, i: i2, j: j2, k: k2, l: l1, m: m1, n: n2, o: o2, p: p1])" domain="etc/templates/Domain16/Domain16.xml" bids="723" runtime="0.121416402" finalOutcome="Bid[a: a1, b: b2, c: c1, d: d1, e: e2, g: g2, f: f1, h: h2, i: i2, j: j2, k: k2, l: l1, m: m1, n: n2, o: o2, p: p1]" startingAgent="WaveAgent@108" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent@108" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util1.xml" agentClass="WaveAgent" userUtility="0.6418428732776017" finalUtility="0.894003246966697" discountedUtility="0.6418428732776017" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent2@109" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util3.xml" agentClass="WaveAgent2" userUtility="0.6353862472558105" finalUtility="0.8850100106650227" discountedUtility="0.6353862472558105" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:48:38 JST 2022" timeOfAgreement="0.3156843156843157" lastAction="(Accept  bid:Bid[a: a1, b: b2, c: c1, d: d1, e: e2, g: g2, f: f2, h: h2, i: i2, j: j2, k: k2, l: l2, m: m1, n: n2, o: o2, p: p1])" domain="etc/templates/Domain16/Domain16.xml" bids="631" runtime="0.112900868" finalOutcome="Bid[a: a1, b: b2, c: c1, d: d1, e: e2, g: g2, f: f2, h: h2, i: i2, j: j2, k: k2, l: l2, m: m1, n: n2, o: o2, p: p1]" startingAgent="WaveAgent2@110" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent2@110" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util1.xml" agentClass="WaveAgent2" userUtility="0.6652470995233484" finalUtility="0.8883956206497993" discountedUtility="0.6652470995233484" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent2@111" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util3.xml" agentClass="WaveAgent2" userUtility="0.6865863337747183" finalUtility="0.9168928245767618" discountedUtility="0.6865863337747183" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:48:39 JST 2022" timeOfAgreement="0.31368631368631367" lastAction="(Accept  bid:Bid[a: a1, b: b2, c: c2, d: d2, e: e1, g: g1, f: f2, h: h2, i: i2, j: j2, k: k1, l: l2, m: m1, n: n1, o: o2, p: p1])" domain="etc/templates/Domain16/Domain16.xml" bids="627" runtime="0.116540467" finalOutcome="Bid[a: a1, b: b2, c: c2, d: d2, e: e1, g: g1, f: f2, h: h2, i: i2, j: j2, k: k1, l: l2, m: m1, n: n1, o: o2, p: p1]" startingAgent="WaveAgent@112" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent@112" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util1.xml" agentClass="WaveAgent" userUtility="0.6768727307705098" finalUtility="0.902267579307399" discountedUtility="0.6768727307705098" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent@113" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util2.xml" agentClass="WaveAgent" userUtility="0.6677165296190981" finalUtility="0.8900624141811105" discountedUtility="0.6677165296190981" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:48:41 JST 2022" timeOfAgreement="0.25274725274725274" lastAction="(Accept  bid:Bid[a: a1, b: b2, c: c2, d: d2, e: e1, g: g2, f: f2, h: h2, i: i2, j: j1, k: k2, l: l2, m: m2, n: n1, o: o2, p: p2])" domain="etc/templates/Domain16/Domain16.xml" bids="505" runtime="0.096462114" finalOutcome="Bid[a: a1, b: b2, c: c2, d: d2, e: e1, g: g2, f: f2, h: h2, i: i2, j: j1, k: k2, l: l2, m: m2, n: n1, o: o2, p: p2]" startingAgent="WaveAgent2@114" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent2@114" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util1.xml" agentClass="WaveAgent2" userUtility="0.7216141065818787" finalUtility="0.9096687140999514" discountedUtility="0.7216141065818787" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent@115" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util2.xml" agentClass="WaveAgent" userUtility="0.7241602350999133" finalUtility="0.9128783706654318" discountedUtility="0.7241602350999133" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:48:42 JST 2022" timeOfAgreement="0.04095904095904096" lastAction="(Accept  bid:Bid[a: a1, b: b2, c: c2, d: d2, e: e1, g: g2, f: f1, h: h2, i: i2, j: j1, k: k2, l: l2, m: m2, n: n1, o: o2, p: p2])" domain="etc/templates/Domain16/Domain16.xml" bids="80" runtime="0.018993323" finalOutcome="Bid[a: a1, b: b2, c: c2, d: d2, e: e1, g: g2, f: f1, h: h2, i: i2, j: j1, k: k2, l: l2, m: m2, n: n1, o: o2, p: p2]" startingAgent="WaveAgent@116" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent@116" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util1.xml" agentClass="WaveAgent" userUtility="0.8815227516400823" finalUtility="0.9152353096814271" discountedUtility="0.8815227516400823" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent2@117" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util2.xml" agentClass="WaveAgent2" userUtility="0.8792266141253667" finalUtility="0.9128513597204737" discountedUtility="0.8792266141253667" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:48:43 JST 2022" timeOfAgreement="0.04095904095904096" lastAction="(Accept  bid:Bid[a: a1, b: b2, c: c2, d: d2, e: e1, g: g2, f: f1, h: h2, i: i2, j: j1, k: k2, l: l2, m: m2, n: n1, o: o2, p: p2])" domain="etc/templates/Domain16/Domain16.xml" bids="80" runtime="0.02817908" finalOutcome="Bid[a: a1, b: b2, c: c2, d: d2, e: e1, g: g2, f: f1, h: h2, i: i2, j: j1, k: k2, l: l2, m: m2, n: n1, o: o2, p: p2]" startingAgent="WaveAgent2@118" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent2@118" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util1.xml" agentClass="WaveAgent2" userUtility="0.8815227516400823" finalUtility="0.9152353096814271" discountedUtility="0.8815227516400823" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent2@119" agentDesc="Agent WaveAgent2" utilspace="etc/templates/Domain16/Domain16_util2.xml" agentClass="WaveAgent2" userUtility="0.8792266141253667" finalUtility="0.9128513597204737" discountedUtility="0.8792266141253667" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome></Tournament>

@@ -1,0 +1,55 @@
+<?xml version="1.0" ?><Tournament>
+<NegotiationOutcome currentTime="Fri Jan 28 15:03:14 JST 2022" timeOfAgreement="9.99000999000999E-4" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="1" runtime="0.001591312" finalOutcome="Bid[Laptop: HP, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="WaveAgent@160" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent@160" agentDesc="Agent WaveAgent" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility_u20.xml" agentClass="WaveAgent" userUtility="0.873133062925672" finalUtility="0.8738809580242486" discountedUtility="0.873133062925672" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent@161" agentDesc="Agent WaveAgent" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility_u20.xml" agentClass="WaveAgent" userUtility="0.8730847735942658" finalUtility="0.873832627329898" discountedUtility="0.8730847735942658" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:03:14 JST 2022" timeOfAgreement="0.001998001998001998" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="2" runtime="0.0054605" finalOutcome="Bid[Laptop: HP, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="WaveAgent@162" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent@162" agentDesc="Agent WaveAgent" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility_u10.xml" agentClass="WaveAgent" userUtility="0.8723858078994915" finalUtility="0.8738809580242486" discountedUtility="0.8723858078994915" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent@163" agentDesc="Agent WaveAgent" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility_u20.xml" agentClass="WaveAgent" userUtility="0.8723375598956298" finalUtility="0.873832627329898" discountedUtility="0.8723375598956298" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:03:15 JST 2022" timeOfAgreement="0.3096903096903097" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="618" runtime="0.135216159" finalOutcome="Bid[Laptop: HP, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="WaveAgent@164" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent@164" agentDesc="Agent WaveAgent" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="WaveAgent" userUtility="0.6702740976452428" finalUtility="0.8740242984783759" discountedUtility="0.6702740976452428" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent@165" agentDesc="Agent WaveAgent" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility_u20.xml" agentClass="WaveAgent" userUtility="0.6701271083609468" finalUtility="0.873832627329898" discountedUtility="0.6701271083609468" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:03:15 JST 2022" timeOfAgreement="9.99000999000999E-4" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="1" runtime="0.001410222" finalOutcome="Bid[Laptop: HP, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="WaveAgent@166" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent@166" agentDesc="Agent WaveAgent" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility_u20.xml" agentClass="WaveAgent" userUtility="0.873133062925672" finalUtility="0.8738809580242486" discountedUtility="0.873133062925672" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent@167" agentDesc="Agent WaveAgent" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility_u10.xml" agentClass="WaveAgent" userUtility="0.8730847735942658" finalUtility="0.873832627329898" discountedUtility="0.8730847735942658" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:03:15 JST 2022" timeOfAgreement="9.99000999000999E-4" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="1" runtime="0.001207136" finalOutcome="Bid[Laptop: HP, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="WaveAgent@168" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent@168" agentDesc="Agent WaveAgent" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility_u10.xml" agentClass="WaveAgent" userUtility="0.873133062925672" finalUtility="0.8738809580242486" discountedUtility="0.873133062925672" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent@169" agentDesc="Agent WaveAgent" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility_u10.xml" agentClass="WaveAgent" userUtility="0.8730847735942658" finalUtility="0.873832627329898" discountedUtility="0.8730847735942658" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:03:15 JST 2022" timeOfAgreement="0.2627372627372627" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="524" runtime="0.123620511" finalOutcome="Bid[Laptop: HP, Harddisk: 60 Gb, External Monitor: 19'' LCD]" startingAgent="WaveAgent@170" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent@170" agentDesc="Agent WaveAgent" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="WaveAgent" userUtility="0.7983723942856844" finalUtility="1.0" discountedUtility="0.7983723942856844" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent@171" agentDesc="Agent WaveAgent" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility_u10.xml" agentClass="WaveAgent" userUtility="0.6507370485239702" finalUtility="0.8150795959148791" discountedUtility="0.6507370485239702" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:03:15 JST 2022" timeOfAgreement="0.3016983016983017" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="603" runtime="0.149182536" finalOutcome="Bid[Laptop: HP, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="WaveAgent@172" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent@172" agentDesc="Agent WaveAgent" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility_u20.xml" agentClass="WaveAgent" userUtility="0.6747702762282085" finalUtility="0.8738809580242486" discountedUtility="0.6747702762282085" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent@173" agentDesc="Agent WaveAgent" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="WaveAgent" userUtility="0.6748809570674442" finalUtility="0.874024298478376" discountedUtility="0.6748809570674442" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:03:15 JST 2022" timeOfAgreement="0.2787212787212787" lastAction="(Accept  bid:Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="557" runtime="0.118274731" finalOutcome="Bid[Laptop: Macintosh, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="WaveAgent@174" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent@174" agentDesc="Agent WaveAgent" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility_u10.xml" agentClass="WaveAgent" userUtility="0.5712493515577015" finalUtility="0.7253868577343348" discountedUtility="0.5712493515577015" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent@175" agentDesc="Agent WaveAgent" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="WaveAgent" userUtility="0.7875099272434234" finalUtility="1.0" discountedUtility="0.7875099272434234" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Fri Jan 28 15:03:16 JST 2022" timeOfAgreement="0.2957042957042957" lastAction="(Accept  bid:Bid[Laptop: HP, Harddisk: 80 Gb, External Monitor: 19'' LCD])" domain="etc/templates/anac/y2011/Laptop/laptop_domain.xml" bids="591" runtime="0.104371439" finalOutcome="Bid[Laptop: HP, Harddisk: 80 Gb, External Monitor: 19'' LCD]" startingAgent="WaveAgent@176" deadline="1000rounds">
+<resultsOfAgent agent="WaveAgent@176" agentDesc="Agent WaveAgent" utilspace="etc/templates/anac/y2011/Laptop/laptop_buyer_utility.xml" agentClass="WaveAgent" userUtility="0.6783568688613659" finalUtility="0.8740242984783759" discountedUtility="0.6783568688613659" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent@177" agentDesc="Agent WaveAgent" utilspace="etc/templates/anac/y2011/Laptop/laptop_seller_utility.xml" agentClass="WaveAgent" userUtility="0.678356868861366" finalUtility="0.874024298478376" discountedUtility="0.678356868861366" discount="0.42441038" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome></Tournament>

@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome currentTime="Fri Jan 28 15:24:18 JST 2022" timeOfAgreement="0.33466533466533466" lastAction="(Accept  bid:Bid[a: a1, b: b2, c: c2, d: d2, e: e2, g: g2, f: f1, h: h2, i: i2, j: j2, k: k1, l: l2, m: m1, n: n1, o: o2, p: p2])" domain="etc/templates/Domain16/Domain16.xml" bids="669" runtime="0.63027217" finalOutcome="Bid[a: a1, b: b2, c: c2, d: d2, e: e2, g: g2, f: f1, h: h2, i: i2, j: j2, k: k1, l: l2, m: m1, n: n1, o: o2, p: p2]" startingAgent="shimizu_agent@8" deadline="1000rounds">
+<resultsOfAgent agent="shimizu_agent@8" agentDesc="KANAC agent (shimizu)" utilspace="etc/templates/Domain16/Domain16_util1.xml" agentClass="shimizu_agent" userUtility="0.7182076209438533" finalUtility="0.975948127884385" discountedUtility="0.7182076209438533" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+<resultsOfAgent agent="WaveAgent@9" agentDesc="Agent WaveAgent" utilspace="etc/templates/Domain16/Domain16_util2.xml" agentClass="WaveAgent" userUtility="0.6528868857858829" finalUtility="0.887185982607126" discountedUtility="0.6528868857858829" discount="0.4" totalUserBother="0.0">
+</resultsOfAgent>
+</NegotiationOutcome></Session>

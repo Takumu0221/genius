@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<agentsStatistics>
+    <statistics>
+        <agentname>WaveAgent</agentname>
+        <totalUndiscountedUtility>27.52578817103096</totalUndiscountedUtility>
+        <totalDiscountedUtility>26.226045499694955</totalDiscountedUtility>
+        <numberOfSessions>36</numberOfSessions>
+        <totalNashDist>4.764201448890582</totalNashDist>
+        <totalWelfare>52.222176076285486</totalWelfare>
+        <totalParetoDistance>4.134819500079411</totalParetoDistance>
+        <meanDiscounted>0.7285012638804154</meanDiscounted>
+        <meanNashDistance>0.13233892913584952</meanNashDistance>
+        <meanParetoDistance>0.11485609722442808</meanParetoDistance>
+        <meanUndiscounted>0.7646052269730822</meanUndiscounted>
+        <meanWelfare>1.4506160021190413</meanWelfare>
+    </statistics>
+    <statistics>
+        <agentname>WaveAgent2</agentname>
+        <totalUndiscountedUtility>27.284406847475946</totalUndiscountedUtility>
+        <totalDiscountedUtility>25.996130576590538</totalDiscountedUtility>
+        <numberOfSessions>36</numberOfSessions>
+        <totalNashDist>4.764201448890582</totalNashDist>
+        <totalWelfare>52.222176076285486</totalWelfare>
+        <totalParetoDistance>4.134819500079411</totalParetoDistance>
+        <meanDiscounted>0.722114738238626</meanDiscounted>
+        <meanNashDistance>0.13233892913584952</meanNashDistance>
+        <meanParetoDistance>0.11485609722442808</meanParetoDistance>
+        <meanUndiscounted>0.7579001902076652</meanUndiscounted>
+        <meanWelfare>1.4506160021190413</meanWelfare>
+    </statistics>
+</agentsStatistics>
